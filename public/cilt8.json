@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Atina (Atina-i Hükema)",
+    "type": "landmark",
+    "coords": [
+      37.9838,
+      23.7275
+    ],
+    "iconType": "landmark",
+    "excerpt": "Filozoflar Şehri",
+    "description": "Eflatun'un, Aristo'nun ve nice filozofun yetiştiği, mermer direkli sarayları ve heykelleriyle insanı hayrete düşüren kadim bir şehirdir.",
+    "detail": "Evliya, Akropolis üzerindeki Parthenon'u (o dönemde cami olarak kullanılıyordu) 'insan elinden çıkmışa benzemez' diye över. Mermer heykellerin canlı gibi durduğunu, 'Hacı Baba' tekkesini ve zeytinliklerin bolluğunu anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_Athens.jpg/800px-The_Parthenon_Athens.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kandiye Kalesi (Girit)",
+    "type": "landmark",
+    "coords": [
+      35.3387,
+      25.1442
+    ],
+    "iconType": "shield",
+    "excerpt": "En Uzun Kuşatma",
+    "description": "Osmanlı tarihinin en uzun süren (24 yıl) kuşatması sonucu alınan, Venediklilerin 'bütün Hristiyanlığın kilidi' dediği muazzam kaledir.",
+    "detail": "Evliya Çelebi, kuşatma sırasında yerin altının köstebek yuvası gibi lağımlarla (tünel) dolduğunu, atılan top güllelerinden gökyüzünün görünmediğini anlatır. Kalenin fethinden sonraki imar çalışmalarını ve Fazıl Ahmed Paşa'nın adaletini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Koules_Fortress_Heraklion.jpg/800px-Koules_Fortress_Heraklion.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hanya (Girit)",
+    "type": "city",
+    "coords": [
+      35.5138,
+      24.018
+    ],
+    "iconType": "anchor",
+    "excerpt": "Girit'in Güzeli",
+    "description": "Adanın batısında, limanı işlek, portakal ve limon bahçeleriyle süslü, havası latif bir şehirdir.",
+    "detail": "Yusuf Paşa'nın fethettiği bu şehrin camilerini, Venedik'ten kalma tersanesini ve Girit halkının ilginç adetlerini yazar. Girit'in balının ve peynirinin meşhur olduğunu belirtir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chania_Harbor.jpg/800px-Chania_Harbor.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Selanik",
+    "type": "city",
+    "coords": [
+      40.6401,
+      22.9444
+    ],
+    "iconType": "waves",
+    "excerpt": "Ege'nin İncisi",
+    "description": "Deniz kıyısında, kalesi mamur, çarşıları zengin, her milletten insanın yaşadığı büyük bir ticaret limanıdır.",
+    "detail": "Meşhur Beyaz Kule'yi (Kanlı Kule/Aslan Kulesi) 'deniz kenarında bir ejderha gibi' tasvir eder. Şehrin dokumalarının (çuha) kalitesini, Yahudi nüfusunun çokluğunu ve Mevlevihane'sini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/White_Tower_Thessaloniki_2010.jpg/800px-White_Tower_Thessaloniki_2010.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kavala",
+    "type": "landmark",
+    "coords": [
+      40.9376,
+      24.41
+    ],
+    "iconType": "archway",
+    "excerpt": "Su Kemerleri Şehri",
+    "description": "Denize hakim bir tepeye kurulu, Kanuni Sultan Süleyman'ın yaptırdığı su kemerleriyle süslü şirin bir şehirdir.",
+    "detail": "Evliya, şehrin su yollarının mühendislik harikası olduğunu söyler. Tütününün ve bademinin bolluğundan bahseder. Kalesinin sarp kayalar üzerinde olduğunu belirtir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kavala_Aqueduct.jpg/800px-Kavala_Aqueduct.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Elbasan (Arnavutluk)",
+    "type": "city",
+    "coords": [
+      41.1125,
+      20.0822
+    ],
+    "iconType": "fortress",
+    "excerpt": "Arnavutluk'un Gelini",
+    "description": "Sultan II. Mehmed'in emriyle kurulan, ortasında güzel bir kalesi olan, suyu bol, bahçesi bol, cennet gibi bir şehirdir.",
+    "detail": "Evliya, Elbasan Kalesi'nin surlarının sağlamlığını ve içindeki camileri tek tek sayar. Şehir halkının misafirperverliğini, Arnavut kaldırımlı sokaklarını ve demir işçiliğindeki ustalıklarını över. 'Elbasan ovası o kadar bereketlidir ki adam diksen biter' der.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Elbasan_Fortress_Wall.jpg/800px-Elbasan_Fortress_Wall.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Ergiri (Gjirokastër - Arnavutluk)",
+    "type": "wonder",
+    "coords": [
+      40.0758,
+      20.1388
+    ],
+    "iconType": "mountain",
+    "excerpt": "Taş Şehir",
+    "description": "Öyle sarp bir yamaçta kurulmuştur ki, 'bir evin çatısından düşen adam diğer evin bacasından içeri girer'. Evleri taştan ve kule gibidir.",
+    "detail": "Şehrin mimarisine hayran kalır. Arnavut beylerinin konaklarının her birinin birer kale gibi olduğunu, halkının silahşor ve çetin insanlar olduğunu anlatır. Kalesinin bulutların içinde olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gjirokastra_Castle_View.jpg/800px-Gjirokastra_Castle_View.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Avlonya (Vlorë - Arnavutluk)",
+    "type": "city",
+    "coords": [
+      40.465,
+      19.485
+    ],
+    "iconType": "ship-anchor",
+    "excerpt": "Adriyatik'in Kapısı",
+    "description": "Deniz kıyısında, limanı gemilerle dolu, bağlık zeytinlik bir şehirdir. İtalya'nın (Puglia) tam karşısındadır.",
+    "detail": "Buradaki Kanina Kalesi'nin yüksekliğini ve manzarasını anlatır. Avlonya'nın zeytinyağının ve 'Arnavut ciğeri' gibi yemek kültürünün zenginliğini, halkının denizcilikteki maharetini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vlore_Independence_Monument.jpg/800px-Vlore_Independence_Monument.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tiran (Arnavutluk)",
+    "type": "city",
+    "coords": [
+      41.3275,
+      19.8189
+    ],
+    "iconType": "mosque",
+    "excerpt": "Süleyman Paşa'nın Şehri",
+    "description": "İskender Bey'in diyarına yakın, Süleyman Paşa tarafından imar edilmiş, camileri, hanları ve hamamlarıyla gelişmekte olan bir şehirdir.",
+    "detail": "Evliya'nın zamanında Tiran yeni gelişen bir merkezdir. Şehrin camilerinin (özellikle Et'hem Bey Camii'nin temelleri o dönem atılmıştır) güzelliğini, pazar yerinin canlılığını ve çevresindeki dağların yeşilliğini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Et%27hem_Bey_Mosque_Tirana.jpg/800px-Et%27hem_Bey_Mosque_Tirana.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ohri (Ohrid)",
+    "type": "wonder",
+    "coords": [
+      41.1172,
+      20.8019
+    ],
+    "iconType": "water",
+    "excerpt": "Göl Kenarındaki Cennet",
+    "description": "Dağların arasında, suyu billur gibi bir gölün kıyısında, kalesi yüksek, havası serin bir şehirdir.",
+    "detail": "Evliya, Ohri Gölü'nün suyunun tatlı ve şifalı olduğunu, içinde lezzetli alabalıkların (belvica) yaşadığını anlatır. Şehirde yılın her günü için bir kilise (365 kilise) olduğu rivayetini aktarır. Ohri Kalesi'nin göle bakan manzarasını över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ohrid_St_John_Kaneo.jpg/800px-Ohrid_St_John_Kaneo.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Yanya (Ioannina)",
+    "type": "landmark",
+    "coords": [
+      39.665,
+      20.8537
+    ],
+    "iconType": "shield",
+    "excerpt": "Arslan Paşa'nın Aslanları",
+    "description": "Büyük bir gölün kıyısında, kalesi suyun içine uzanmış, camileri ve medreseleriyle meşhur bir ilim merkezidir.",
+    "detail": "Aslan Paşa Camii'nin göle akseden görüntüsünü, Yanya halkının okuma yazmaya düşkünlüğünü ve şehrin zenginliğini anlatır. Arnavutluk'a açılan kapı olarak görür.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ioannina_Lake_Mosque.jpg/800px-Ioannina_Lake_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Berat (Arnavutluk)",
+    "type": "city",
+    "coords": [
+      40.7058,
+      19.9522
+    ],
+    "iconType": "house",
+    "excerpt": "Bin Pencereli Şehir",
+    "description": "Osum Nehri kenarında, dağ yamacına dizilmiş beyaz badanalı evleriyle meşhurdur. Kalesi çok geniştir, içinde mahalleler vardır.",
+    "detail": "Evliya, Berat Kalesi'nin büyüklüğünü ve içindeki yaşamı anlatır. Evlerin çok pencereli yapısı dikkatini çeker. Şehrin alimlerinin ve şairlerinin bol olduğunu not düşer.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Berat_Gorica_Quarter.jpg/800px-Berat_Gorica_Quarter.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Delvine",
+    "type": "city",
+    "coords": [
+      39.9458,
+      20.1
+    ],
+    "iconType": "tree",
+    "excerpt": "Bağlar ve Bahçeler Diyarı",
+    "description": "Arnavutluk'un güneyinde, suları bol, portakal ve nar bahçeleri içinde şirin bir sancak merkezidir.",
+    "detail": "Şehrin kalesinin sarp kayalar üzerinde olduğunu, ancak asıl güzelliğinin bağ ve bahçelerinde saklı olduğunu söyler. Halkının misafirperverliğini ve yöresel kıyafetlerini tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Delvine_Albania_Landscape.jpg/800px-Delvine_Albania_Landscape.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Gümülcine",
+    "type": "city",
+    "coords": [
+      41.1206,
+      25.4008
+    ],
+    "iconType": "mosque",
+    "excerpt": "Gazi Evrenos Bey'in Yurdu",
+    "description": "Rumeli'nin fatihlerinden Gazi Evrenos Bey'in imar ettiği, camileri, imaretleri ve hanlarıyla tam bir Türk şehridir.",
+    "detail": "Evliya, Evrenos Bey'in türbesini ve yaptırdığı hayratları anlatır. Şehrin tütününün ve kahvehanelerinin meşhur olduğunu, halkının keyif ehli olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Komotini_Clock_Tower.jpg/800px-Komotini_Clock_Tower.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Tepedelen (Tepelenë)",
+    "type": "landmark",
+    "coords": [
+      40.2958,
+      20.0192
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Vjosa Nehri'nin Bekçisi",
+    "description": "Vjosa Nehri'ne bakan sarp bir tepe üzerinde kurulu, stratejik bir kaledir. (Daha sonra Tepedelenli Ali Paşa ile ünlenecektir).",
+    "detail": "Evliya Çelebi, kalenin altından akan nehrin hırçınlığını ve kalenin alınmasının zorluğunu anlatır. Bölge halkının savaşçılığından ve silahlarına olan düşkünlüğünden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tepelena_Castle_Ali_Pasha_Statue.jpg/800px-Tepelena_Castle_Ali_Pasha_Statue.jpg"
+    ]
+  },
+  {
+    "id": 8016,
+    "title": "Girit Adası",
+    "type": "nature",
+    "coords": [
+      35.30972,
+      24.89333
+    ],
+    "iconType": "nature",
+    "excerpt": "Adalar",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Island_of_Crete%2C_Greece.JPG/800px-Island_of_Crete%2C_Greece.JPG"
+    ]
+  },
+  {
+    "id": 8017,
+    "title": "Mora Adası",
+    "type": "nature",
+    "coords": [
+      38.6158072,
+      20.9010154
+    ],
+    "iconType": "nature",
+    "excerpt": "Adalar",
+    "description": "Peloponez ve ya Mora Yarımadası, bugünkü Yunanistan'ın güneyin de, ülkenin bir kısmını oluşturan,Avrupakıtasına bağlı olan ve Ege Denizi'n de bulunanyarımadadır(1893'ten beridir teknik olarak a da). Adanın is...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peloponnese-NASA.jpg/1280px-Peloponnese-NASA.jpg"
+    ]
+  }
+]

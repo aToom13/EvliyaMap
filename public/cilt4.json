@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "title": "Diyarbakır Surları",
+    "type": "landmark",
+    "coords": [
+      37.9144,
+      40.2306
+    ],
+    "iconType": "city",
+    "excerpt": "Kara Taştan Bir Gerdanlık",
+    "description": "Siyah bazalt taşından yapılmış, üzerine balık ve çift başlı kartal nakışları işlenmiş muazzam surlardır. Evliya'ya göre dünyada bir benzeri yoktur.",
+    "detail": "Evliya Çelebi, Diyarbakır karpuzunun büyüklüğünü anlatırken 'bir karpuzu kesip içine girsen kaybolursun' diye latife yapar. Dicle kenarındaki Hevsel Bahçeleri'nin güzelliğini ve halkın şair ruhlu olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Diyarbakir_City_Walls.jpg/800px-Diyarbakir_City_Walls.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Van Kalesi",
+    "type": "wonder",
+    "coords": [
+      38.5012,
+      43.3408
+    ],
+    "iconType": "mountain",
+    "excerpt": "Göl Kıyısında Bir Kartal Yuvası",
+    "description": "Van Gölü kıyısında sarp bir kaya üzerine kuruludur. Kaledeki devasa mağaralar ve Urartu yazıtları Evliya'nın dikkatini çeker.",
+    "detail": "Seyahatname'nin en fantastik bölümlerinden biri buradadır. Evliya, Van Gölü'nde at başı büyüklüğünde, şimşek gibi ses çıkaran bir canavar gördüğünü (Van Gölü Canavarı) ve halkın bundan korktuğunu anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Van_Castle.jpg/800px-Van_Castle.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bağdat",
+    "type": "landmark",
+    "coords": [
+      33.3152,
+      44.3661
+    ],
+    "iconType": "mosque",
+    "excerpt": "Darü's-Selam (Barış Yurdu)",
+    "description": "Dicle Nehri'nin ikiye böldüğü, İmam-ı Azam Ebu Hanife ve Abdülkadir Geylani hazretlerinin manevi koruması altındaki kadim şehirdir.",
+    "detail": "Evliya, IV. Murad'ın Bağdat seferini ve Genç Osman'ın şehadetini destansı bir dille anlatır. Bağdat'ın hurma bahçelerini, surlarını ve 'Gülabi' denilen gülsuyunun meşhurluğunu över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Baghdad_Haider_Khana_Mosque_1950s.jpg/800px-Baghdad_Haider_Khana_Mosque_1950s.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Basra",
+    "type": "city",
+    "coords": [
+      30.5081,
+      47.7835
+    ],
+    "iconType": "water",
+    "excerpt": "Hurma Diyarı",
+    "description": "Deniz kenarında, sıcak ve rutubetli, yetmiş çeşit hurmanın yetiştiği bereketli bir liman şehridir.",
+    "detail": "Şehrin kanallarını (Venedik gibi) ve denizden çıkan incileri anlatır. Sindbad efsanelerine atıfta bulunur ve sıcakların şiddetinden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Basra_Canal.jpg/800px-Basra_Canal.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mardin",
+    "type": "city",
+    "coords": [
+      37.3122,
+      40.735
+    ],
+    "iconType": "archway",
+    "excerpt": "Dağın Tepesindeki Şehir",
+    "description": "Yüksek bir kayalık üzerine kurulmuş, evleri birbirinin manzarasını kapatmayan, 'gecesi gerdanlık gündüzü seyranlık' bir şehirdir.",
+    "detail": "Evliya Çelebi kalesinin yüksekliğini anlatırken 'buradaki askerler aşağıya bakınca insanları karınca gibi görür' der. Havasının temizliğinden ve kalesinin asla fethedilemez oluşundan bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mardin_Evleri.jpg/800px-Mardin_Evleri.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bitlis",
+    "type": "landmark",
+    "coords": [
+      38.4006,
+      42.1095
+    ],
+    "iconType": "book",
+    "excerpt": "Abdal Han'ın Bilim Merkezi",
+    "description": "Dağların arasında sıkışmış, sert kışları olan ama ilim ve sanatın zirve yaptığı bir şehirdir.",
+    "detail": "Evliya, Bitlis Beyi Abdal Han'ın muazzam kütüphanesini, sanatseverliğini ve kendisine hediye ettiği el yazması kitapları uzun uzun anlatır. Şehrin 5 minaresi ve karlı dağları meşhurdur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bitlis_General_View.jpg/800px-Bitlis_General_View.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Musul (Ninova)",
+    "type": "landmark",
+    "coords": [
+      36.34,
+      43.13
+    ],
+    "iconType": "fish",
+    "excerpt": "Hz. Yunus'un Makamı",
+    "description": "Dicle kenarında, eski Ninova harabelerinin yanında kurulmuş, kumaşları (Muslin) ile dünyaya nam salmış şehirdir.",
+    "detail": "Evliya, Hz. Yunus Peygamber'in türbesini ziyaret eder ve balığın karnından çıktığına inanılan bölgeyi anlatır. Şehrin kalesinin sağlamlığını ve petrol (neft) kaynaklarını da not eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mosul_Nebi_Yunus.jpg/800px-Mosul_Nebi_Yunus.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tebriz",
+    "type": "city",
+    "coords": [
+      38.0962,
+      46.2738
+    ],
+    "iconType": "palette",
+    "excerpt": "İran'ın Sanat Başkenti",
+    "description": "Acem mülkünün en süslü, en bayındır şehridir. Şah Sarayı ve Gök Mescid burada bulunur.",
+    "detail": "Evliya Çelebi, Tebriz çarşılarının düzenini, kuyumcularını ve şairlerini över. Şah Abbas'ın yaptırdığı eserleri ve şehrin bağlarındaki meyvelerin lezzetini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blue_Mosque_Tabriz_Entrance.jpg/800px-Blue_Mosque_Tabriz_Entrance.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hasankeyf",
+    "type": "wonder",
+    "coords": [
+      37.7138,
+      41.4156
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Mağaralar Şehri",
+    "description": "Dicle Nehri üzerindeki devasa köprüsü ve kayalara oyulmuş binlerce mağara evi ile acayip bir beldedir.",
+    "detail": "Evliya, 'Bu mağaralarda yaşayan insanların sayısı karıncalar kadardır' der. Artuklu Köprüsü'nün mimarisine hayran kalır ve kalenin sarp kayalıklar üzerindeki duruşunu tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hasankeyf_Bridge_Ruins.jpg/800px-Hasankeyf_Bridge_Ruins.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cizre ve Cudi Dağı",
+    "type": "nature",
+    "coords": [
+      37.3273,
+      42.1904
+    ],
+    "iconType": "ship",
+    "excerpt": "Nuh'un Gemisi'nin Durağı",
+    "description": "Dicle'nin çevrelediği ada gibi bir şehirdir. Hemen yanındaki Cudi Dağı, Nuh'un Gemisi'nin oturduğu yerdir.",
+    "detail": "Evliya, Cizre Beylerinin soyunun çok eskiye dayandığını anlatır. Cudi Dağı'ndaki Nuh Peygamber ziyaretgahını ve buradaki 'Sefine' (Gemi) kalıntılarına dair rivayetleri aktarır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cizre_Great_Mosque.jpg/800px-Cizre_Great_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Malatya",
+    "type": "city",
+    "coords": [
+      38.3552,
+      38.3095
+    ],
+    "iconType": "tree",
+    "excerpt": "Aspuzu Bağları",
+    "description": "Suyu bol, havası sert, kayısısı ve meyvesi bol bir şehirdir. Yazın halkı serinlemek için Aspuzu bağlarına göçer.",
+    "detail": "Evliya, Malatya halkının misafirperverliğini ve şehrin camilerini över. Eski Malatya (Battalgazi) surlarının harap ama heybetli halini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Malatya_Ulu_Cami.jpg/800px-Malatya_Ulu_Cami.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Sincar Dağı",
+    "type": "wonder",
+    "coords": [
+      36.3167,
+      41.85
+    ],
+    "iconType": "skull",
+    "excerpt": "Yezidilerin Yurdu",
+    "description": "Çölün ortasında yükselen, geyiklerin ve vahşi hayvanların bol olduğu sarp bir dağdır.",
+    "detail": "Evliya Çelebi, buradaki Yezidi topluluklarının inançlarını ve yaşam tarzlarını 'acayip ve garip' bularak detaylıca tasvir eder. Saçlarını hiç kesmediklerini ve Melek Tavus inançlarını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sinjar_Mountains.jpg/800px-Sinjar_Mountains.jpg"
+    ]
+  },
+  {
+    "id": 4013,
+    "title": "Van Gölü",
+    "type": "nature",
+    "coords": [
+      38.63333,
+      42.81667
+    ],
+    "iconType": "nature",
+    "excerpt": "Masmavi Göl",
+    "description": "Dünyanın en büyük sodalı gölü olan Van, hayrete düşürücü maviliğiyle ünlüdür. Evliya, sularının tuzlu olduğunu ve balık yetişmediğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lakevanlandsat.jpeg/800px-Lakevanlandsat.jpeg"
+    ],
+    "detail": "Çelebi, Van Kalesi'nden bakılan göl manzarasını 'cennet bahçesi' diye tasvir eder. Akdamar Adası'ndaki kiliseyi de ziyaret eder."
+  },
+  {
+    "id": 4014,
+    "title": "Diyarbakır Kalesi",
+    "type": "fortress",
+    "coords": [
+      37.910861,
+      40.227278
+    ],
+    "iconType": "fortress",
+    "excerpt": "Kara Taş Kalesi",
+    "description": "Dünyanın en uzun sur sistemiyle çevrili bu kale, kara taştan yapılmıştır. Evliya, 'kara kale' ismiyle anar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Diyarbakir_walls.JPG/800px-Diyarbakir_walls.JPG"
+    ],
+    "detail": "Çelebi, Dicle kıyısındaki bu dev kalenin 82 burcunu tek tek sayar. İç kaledeki camileri ve hamamları detaylıca anlatır."
+  },
+  {
+    "id": 4015,
+    "title": "Şirvan eyaleti",
+    "type": "region",
+    "coords": [
+      37.3964405,
+      57.9303523
+    ],
+    "iconType": "region",
+    "excerpt": "Azerbaycan",
+    "description": "Şirvan Eyaleti,Azerbaycan'da tarihi bir eyalet, kaynaklar da ülke olarak da geçer. Eski zamanlar da Kura Nehri ve Şabran,Hazar denizi ve Kebelearasındaki toprakları kapsamaktaydı.Şirvanşahlar Devleti'nın güç...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Shirvanshahlar.jpg/1280px-Shirvanshahlar.jpg"
+    ]
+  }
+]

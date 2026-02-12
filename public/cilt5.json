@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "Tokat Kalesi ve Şehri",
+    "type": "city",
+    "coords": [
+      40.3167,
+      36.55
+    ],
+    "iconType": "hammer",
+    "excerpt": "Bakırcılar Diyarı",
+    "description": "Alimler ve şairler yurdudur. Kalesi sarp bir kaya üzerindedir, asla fethedilemez. Çarşısında dövülen bakırın sesi gök gürültüsü gibidir.",
+    "detail": "Evliya Çelebi, Tokat'ın 'Kazancıları'nı över. Şehrin havasının güzelliğinden, bağlarından ve 'Hıdırlık' mesiresindeki zevk u sefadan bahseder. Halkının yumuşak huylu ve garip dostu olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tokat_Castle_view.jpg/800px-Tokat_Castle_view.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Gelibolu",
+    "type": "landmark",
+    "coords": [
+      40.4106,
+      26.6705
+    ],
+    "iconType": "ship-anchor",
+    "excerpt": "Rumeli'nin Kilidi",
+    "description": "Anadolu'dan Rumeli'ye geçişin kapısıdır. Denizi, balığı ve rüzgarı boldur. İskelesi her daim işlek, gemileri her daim hazırdır.",
+    "detail": "Evliya, burada Osmanlı donanmasının ihtişamını ve kaptan-ı deryaların makamını anlatır. Gelibolu peksimetinin (gemici ekmeği) dayanıklılığını ve lezzetini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gallipoli_Port.jpg/800px-Gallipoli_Port.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Üsküp",
+    "type": "city",
+    "coords": [
+      41.9981,
+      21.4254
+    ],
+    "iconType": "bridge",
+    "excerpt": "Vardar'ın Süsü",
+    "description": "Rumeli'nin en mamur şehirlerinden biridir. Vardar Nehri şehri ikiye böler, üzerine kurulu Taş Köprü bir sanat harikasıdır.",
+    "detail": "Evliya Çelebi, Üsküp'ün çarşılarını, saat kulesini (Makedonya'da ilklerden) ve halkının zevk ehli oluşunu anlatır. Şehrin bağları ve bahçeleri o kadar güzeldir ki 'Üsküp cennetten bir numunedir' der.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stone_Bridge_Skopje.jpg/800px-Stone_Bridge_Skopje.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Manastır (Bitola)",
+    "type": "city",
+    "coords": [
+      41.0297,
+      21.3292
+    ],
+    "iconType": "tree",
+    "excerpt": "Rumeli'nin Gözbebeği",
+    "description": "Dağların eteğinde, suları gürül gürül akan, yeşillikler içinde bir şehirdir. Bedestenleri ve camileri pek süslüdür.",
+    "detail": "Şehirdeki ulemanın çokluğundan ve medreselerin kalitesinden bahseder. Manastır'ın kışın sert geçtiğini ama baharda bülbül sesleriyle şenlendiğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bitola_Clock_Tower.jpg/800px-Bitola_Clock_Tower.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Saraybosna",
+    "type": "city",
+    "coords": [
+      43.8563,
+      18.4131
+    ],
+    "iconType": "mosque",
+    "excerpt": "Balkanların İncisi",
+    "description": "Dağlar arasında, Miljacka nehri kenarında kurulmuş, yüzlerce camisi, hanı ve hamamı olan muazzam bir şehirdir. Gazi Hüsrev Bey Camii bir şaheserdir.",
+    "detail": "Evliya, Bosna halkının misafirperverliğini, cesaretini ve bedenlerinin sağlamlığını över. Şehrin suyunun ve havasının insan ömrünü uzattığını, ihtiyarların bile genç gibi dinç olduğunu söyler. Morića Han'daki sohbetleri anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sarajevo_Ba%C5%A1%C4%8Dar%C5%A1ija_2011.jpg/800px-Sarajevo_Ba%C5%A1%C4%8Dar%C5%A1ija_2011.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Belgrad Kalesi",
+    "type": "landmark",
+    "coords": [
+      44.8237,
+      20.4536
+    ],
+    "iconType": "shield",
+    "excerpt": "Tuna ve Sava'nın Düğünü",
+    "description": "Tuna ve Sava nehirlerinin birleştiği yerde, beyaz taşlardan yapılmış, 'Darü'l-Cihad' (Savaş Yurdu) denilen heybetli bir kaledir.",
+    "detail": "Evliya, kalenin stratejik önemini 'Osmanlı'nın Avrupa kapısının kilidi' olarak tanımlar. Kalenin burçlarını, içindeki cephanelikleri ve nehirlerdeki donanma gemilerini (İnce donanma) hayranlıkla tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belgrade_Fortress_Victor.jpg/800px-Belgrade_Fortress_Victor.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Özi Kalesi (Oçakov)",
+    "type": "landmark",
+    "coords": [
+      46.6225,
+      31.545
+    ],
+    "iconType": "snowflake",
+    "excerpt": "Karadeniz'in Kuzey Kilidi",
+    "description": "Karadeniz'in en kuzey ucunda, Kazak eşkıyasına karşı duran, kışı cehennem (soğuk anlamında) gibi olan bir serhat kalesidir.",
+    "detail": "Evliya Çelebi, burada Melek Ahmed Paşa ile geçirdiği zorlu kış günlerini anlatır. Buz tutmuş deniz üzerinde at koşturduklarını, soğuktan insanların nefesinin donduğunu abartılı ama etkileyici bir dille yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ochakov_Fortress_Ruins.jpg/800px-Ochakov_Fortress_Ruins.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Akkerman Kalesi",
+    "type": "wonder",
+    "coords": [
+      46.2003,
+      30.3497
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Beyaz Taşlı Hisar",
+    "description": "Turla (Dinyester) Nehri kenarında, beyaz kesme taştan yapılmış, hendekleri derin, surları aşılmaz bir kaledir.",
+    "detail": "Kalenin yapılışı hakkında efsaneler anlatır. İçindeki Cengiz Han Camii ve kulelerin mimarisi Evliya'yı büyüler. Burası Tatar askerlerinin toplanma yeridir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Akkerman_Fortress_Walls.jpg/800px-Akkerman_Fortress_Walls.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Banyaluka",
+    "type": "city",
+    "coords": [
+      44.7722,
+      17.191
+    ],
+    "iconType": "landmark",
+    "excerpt": "Ferhad Paşa'nın Eseri",
+    "description": "Bosna serhadinde, yeşillikler içinde, Ferhadiye Camii ile süslü latif bir şehirdir.",
+    "detail": "Evliya, Ferhadiye Camii'nin minaresinin güzelliğini ve şehrin valilik sarayını över. Savaş sınırına yakın olduğu için halkının her an cenge hazır, silahşor yiğitler olduğunu belirtir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ferhadija_Mosque_Banja_Luka.jpg/800px-Ferhadija_Mosque_Banja_Luka.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Varna",
+    "type": "city",
+    "coords": [
+      43.2141,
+      27.9147
+    ],
+    "iconType": "anchor",
+    "excerpt": "Karadeniz İskelesi",
+    "description": "Deniz kenarında, bağlık bahçelik, balı ve yağı bol bir ticaret şehridir. Kalesi Sultan Murad Han yapısıdır.",
+    "detail": "Şehrin limanındaki ticaretin canlılığını, Karadeniz'den gelen gemilerin çeşitliliğini anlatır. Varna'nın üzüm bağlarını ve burada yapılan şıranın meşhurluğunu not düşer.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Varna_Roman_Baths.jpg/800px-Varna_Roman_Baths.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Silistre",
+    "type": "landmark",
+    "coords": [
+      44.1148,
+      27.2672
+    ],
+    "iconType": "shield-halved",
+    "excerpt": "Tuna'nın Bekçisi",
+    "description": "Tuna Nehri kıyısında, Osmanlı'nın en güçlü savunma hatlarından biridir. Kalesi kat kat surlarla çevrilidir.",
+    "detail": "Evliya, Silistre Kalesi'nin sağlamlığını, Tuna Nehri'nde tutulan devasa mersin balıklarını ve kaledeki askerlerin talimlerini detaylıca anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Silistra_Fortress.jpg/800px-Silistra_Fortress.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "İsmail Kalesi",
+    "type": "city",
+    "coords": [
+      45.35,
+      28.8333
+    ],
+    "iconType": "ship",
+    "excerpt": "Tuna Deltasının Hakimi",
+    "description": "Tuna'nın Karadeniz'e döküldüğü yerde, ticaretin ve savaşın iç içe olduğu, her milletten insanın bulunduğu bir liman şehridir.",
+    "detail": "Evliya, buradaki balık pazarının zenginliğini, havyar ticaretini ve Tuna boylarındaki Kazak akınlarına karşı alınan önlemleri yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Izmail_Diorama_Mosque.jpg/800px-Izmail_Diorama_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 5013,
+    "title": "Kütahya Kalesi",
+    "type": "fortress",
+    "coords": [
+      39.41944,
+      29.96972
+    ],
+    "iconType": "fortress",
+    "excerpt": "Kütahya",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/K%C3%BCtahya_hisar-%C3%BC%C3%A7ler_tepesinden.jpg/800px-K%C3%BCtahya_hisar-%C3%BC%C3%A7ler_tepesinden.jpg"
+    ]
+  }
+]

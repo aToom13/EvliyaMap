@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "title": "Kütahya",
+    "type": "city",
+    "coords": [
+      39.4167,
+      29.9833
+    ],
+    "iconType": "house-chimney",
+    "excerpt": "Evliya'nın Ata Yurdu",
+    "description": "Germiyanoğulları'nın başkenti, Evliya Çelebi'nin atalarının toprağıdır. Havası sert ama insanı merttir.",
+    "detail": "Evliya, Kütahya'nın çinilerini ve kalesini över. Dedelerinin burada metfun olduğunu, şehrin suyunun ve havasının letafetini uzun uzun anlatır. 'Kütahya'nın fincanı ve tabağı dünyada meşhurdur' der.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kutahya_Cinili_Camii.jpg/800px-Kutahya_Cinili_Camii.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Afyonkarahisar Kalesi",
+    "type": "landmark",
+    "coords": [
+      38.7569,
+      30.5386
+    ],
+    "iconType": "mountain",
+    "excerpt": "Sarp Kaya Üstünde Bir Kartal",
+    "description": "Yerden göğe doğru dikilmiş tek parça sarp bir kaya (volkanik) üzerine kurulu, alınması imkansız bir kaledir.",
+    "detail": "Evliya, kaleye çıkarken çektiği zorluğu anlatır. Şehrin afyon üretiminden ve kaymağının lezzetinden bahseder. Kaledeki Kız Kulesi efsanesine değinir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Afyonkarahisar_Castle.jpg/800px-Afyonkarahisar_Castle.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Manisa",
+    "type": "city",
+    "coords": [
+      38.612,
+      27.4265
+    ],
+    "iconType": "crown",
+    "excerpt": "Şehzadeler Şehri",
+    "description": "Spil Dağı eteğinde, Osmanlı şehzadelerinin sancakbeyliği yaptığı, bağları ve mesir macunu meşhur bir şehirdir.",
+    "detail": "Evliya, Spil Dağı'ndaki 'Ağlayan Kaya' (Niobe) efsanesini anlatır. Hafsa Sultan'ın yaptırdığı şifahane ve her yıl saçılan Mesir Macunu şenliklerinden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Muradiye_Mosque_Manisa.jpg/800px-Muradiye_Mosque_Manisa.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "İzmir",
+    "type": "city",
+    "coords": [
+      38.4192,
+      27.1287
+    ],
+    "iconType": "ship",
+    "excerpt": "Ege'nin İncisi",
+    "description": "Frenklerin ve tüccarların kaynaştığı, limanı gemilerle dolu, kalesi (Kadifekale) şehre hakim muazzam bir ticaret merkezidir.",
+    "detail": "Şehirdeki gayrimüslim nüfusun yoğunluğundan dolayı o dönem 'Gavur İzmir' denildiğini aktarır. Liman ticaretinin zenginliğini, üzüm ve incirinin bolluğunu över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Smyrna_Agora.jpg/800px-Smyrna_Agora.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ayasuluk (Ephesos - Selçuk)",
+    "type": "wonder",
+    "coords": [
+      37.9497,
+      27.3639
+    ],
+    "iconType": "monument",
+    "excerpt": "Ashab-ı Kehf Diyarı",
+    "description": "Eski Yunan harabelerinin ve İsa Bey Camii gibi sanat eserlerinin iç içe olduğu kadim bir beldedir.",
+    "detail": "Evliya, Yedi Uyurlar (Ashab-ı Kehf) mağarasını ziyaret eder. Antik tiyatroyu ve kale kalıntılarını 'ibretlik eserler' olarak niteler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Celsus_Library_Ephesus.jpg/800px-Celsus_Library_Ephesus.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Aydın",
+    "type": "city",
+    "coords": [
+      37.8444,
+      27.8458
+    ],
+    "iconType": "tree",
+    "excerpt": "Dağlarından Yağ, Ovalarından Bal Akan Şehir",
+    "description": "Menderes havzasında, inciri ve zeytini ile meşhur, havası sıcak ama bereketli bir şehirdir.",
+    "detail": "Şehrin camilerini ve hamamlarını anlatır. Aydın incirinin dünyada eşi olmadığını söyler. Yörüklerin yaşam tarzına değinir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Aydin_Nasuh_Pasa_Kulliyesi.jpg/800px-Aydin_Nasuh_Pasa_Kulliyesi.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Muğla ve Bodrum",
+    "type": "landmark",
+    "coords": [
+      37.0344,
+      27.4305
+    ],
+    "iconType": "anchor",
+    "excerpt": "Menteşe Beyliği Toprakları",
+    "description": "Dağlık, ormanlık, kıyıları girintili çıkıntılı bir coğrafyadır. Bodrum Kalesi deniz ortasında bir şaheserdir.",
+    "detail": "Evliya, Bodrum Kalesi'nin (St. Peter) mimarisini ve limanın güvenliğini anlatır. Sünger avcılarından bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bodrum_Castle.jpg/800px-Bodrum_Castle.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Antalya",
+    "type": "city",
+    "coords": [
+      36.8969,
+      30.7133
+    ],
+    "iconType": "water",
+    "excerpt": "Adalya Kalesi",
+    "description": "Surları denize inen, turunç bahçeleriyle çevrili, şelaleleri (Düden) denize dökülen cennet gibi bir şehirdir.",
+    "detail": "Kaleiçi'nin dar sokaklarını, Yivli Minare'yi ve limanın önemini anlatır. Şehrin sıcağının şiddetli olduğunu ama sularının buz gibi olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Antalya_Old_Harbour.jpg/800px-Antalya_Old_Harbour.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Adana",
+    "type": "landmark",
+    "coords": [
+      37.0,
+      35.3213
+    ],
+    "iconType": "bridge",
+    "excerpt": "Taş Köprü ve Ramazanoğulları",
+    "description": "Seyhan Nehri üzerinde, Roma'dan kalma devasa Taş Köprü'sü ile meşhur, Çukurova'nın kalbidir.",
+    "detail": "Evliya, köprünün uzunluğunu ve gözlerini sayar. Ramazanoğlu Camii'ni ve şehrin pamuk tarlalarını anlatır. Yılan Kale (Şahmeran Kalesi) efsanesine atıfta bulunur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Adana_Taskopru.jpg/800px-Adana_Taskopru.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Halep (Aleppo)",
+    "type": "city",
+    "coords": [
+      36.2021,
+      37.1343
+    ],
+    "iconType": "shop",
+    "excerpt": "Ortadoğu'nun Ticaret Merkezi",
+    "description": "Büyük çarşıları (Kapalıçarşı), muazzam kalesi ve İbrahim Peygamber makamıyla çok önemli bir duraktır.",
+    "detail": "Halep Kalesi'nin hendeklerini ve heybetini detaylıca anlatır. Halep kumaşlarının ve sabunlarının kalitesini över. Hac kervanlarının toplanma noktasıdır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aleppo_Citadel.jpg/800px-Aleppo_Citadel.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Kudüs (Kudüs-ü Şerif)",
+    "type": "landmark",
+    "coords": [
+      31.7767,
+      35.2345
+    ],
+    "iconType": "mosque",
+    "excerpt": "Mescid-i Aksa",
+    "description": "İlk kıblemiz, peygamberler şehri. Kubbetü's-Sahra'nın altın kubbesi şehre nur saçar.",
+    "detail": "Evliya, Mescid-i Aksa'nın içindeki makamları, Muallak Taşı'nı ve Miraç hadisesinin izlerini huşu içinde anlatır. Hristiyanlar için Kamame Kilisesi'nin öneminden de bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dome_of_the_Rock_2007.jpg/800px-Dome_of_the_Rock_2007.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Medine-i Münevvere",
+    "type": "landmark",
+    "coords": [
+      24.4672,
+      39.6109
+    ],
+    "iconType": "star-and-crescent",
+    "excerpt": "Gül Kokulu Şehir",
+    "description": "Hz. Muhammed'in (s.a.v) huzurudur. Ravza-i Mutahhara'nın yeşil kubbesi (Kubbetü'l-Hadra) altındadır.",
+    "detail": "Evliya Çelebi, Peygamberimizin kabrini ziyaret edişini gözyaşları içinde anlatır. Uhud Dağı'na, Cennetü'l-Baki mezarlığına ve hurma bahçelerine detaylıca yer verir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Masjid_Nabawi.jpg/800px-Masjid_Nabawi.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Mekke-i Mükerreme",
+    "type": "landmark",
+    "coords": [
+      21.4225,
+      39.8262
+    ],
+    "iconType": "kaaba",
+    "excerpt": "Beytullah",
+    "description": "Yeryüzünün kalbi, Allah'ın evi Kabe'nin bulunduğu mukaddes şehirdir. Müminlerin kıblesidir.",
+    "detail": "Kabe'nin ölçülerini, Hacerü'l-Esved'i, Zemzem kuyusunu ve Hac menasikini (Arafat, Müzdelife, Mina) en ince ayrıntısına kadar anlatır. Şehirdeki manevi havayı tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaaba_Great_Mosque_Mecca.jpg/800px-Kaaba_Great_Mosque_Mecca.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Cidde",
+    "type": "city",
+    "coords": [
+      21.4858,
+      39.1925
+    ],
+    "iconType": "ship-anchor",
+    "excerpt": "Mekke'nin İskelesi",
+    "description": "Kızıldeniz kıyısında, Hacıların deniz yoluyla geldiği sıcak bir liman şehridir. Havva Ana'nın kabri buradadır.",
+    "detail": "Evliya, Hz. Havva'nın kabrinin uzunluğunu (çok uzun tarif eder) ve Cidde kalesinin denizden gelen tehlikelere (Portekizliler) karşı önemini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jeddah_Old_City.jpg/800px-Jeddah_Old_City.jpg"
+    ]
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "Viyana (Beç Kalesi)",
+    "type": "city",
+    "coords": [
+      48.2082,
+      16.3738
+    ],
+    "iconType": "crown",
+    "excerpt": "Altın Elma'nın Eşiği",
+    "description": "Kara Mehmed Paşa ile elçi olarak gittiği, Nemse (Avusturya) Çasarı'nın payitahtıdır. Şehirdeki nizam, temizlik ve sanat Evliya'yı büyüler.",
+    "detail": "Evliya, Viyana'daki cerrahhanelerde izlediği ameliyatları (beyin ameliyatı dahil) hayretler içinde anlatır. Stephansdom Kilisesi'nin kulesini, mekanik saatleri ve kendi kendine dönen kebap şişlerini 'sihir gibi' diye tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vienna_St._Stephen%27s_Cathedral.jpg/800px-Vienna_St._Stephen%27s_Cathedral.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Eğri Kalesi (Eger)",
+    "type": "landmark",
+    "coords": [
+      47.9026,
+      20.3733
+    ],
+    "iconType": "shield",
+    "excerpt": "Sarp Kaya Üstünde Bir Hisar",
+    "description": "Macaristan ortasında, fethi çok güç, surları sağlam bir kaledir. 'Eğri fatihi' III. Mehmed Han'ın şanı burada yürümüştür.",
+    "detail": "Kalenin minarelerinin yüksekliğini ve içindeki baruthaneleri anlatır. Şehrin çevresindeki bağların üzümleri ve şırası meşhurdur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eger_Castle_Walls.jpg/800px-Eger_Castle_Walls.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Yanık Kalesi (Győr)",
+    "type": "landmark",
+    "coords": [
+      47.6875,
+      17.6504
+    ],
+    "iconType": "fire",
+    "excerpt": "Tuna Kıyısında Yanık Bir Kale",
+    "description": "Viyana yolu üzerinde stratejik bir kaledir. İsmi, Türkler fethederken Avusturyalıların şehri yakıp kaçmasından gelir.",
+    "detail": "Evliya, kalenin hendeklerinin Tuna suyuyla dolu olduğunu ve buradaki tabyaların sağlamlığını över. Şehrin ortasındaki büyük kilisenin (Katedral) mimarisi dikkatini çeker.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gyor_Varoshaza.jpg/800px-Gyor_Varoshaza.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bükreş (Eflak)",
+    "type": "city",
+    "coords": [
+      44.4268,
+      26.1025
+    ],
+    "iconType": "landmark",
+    "excerpt": "Eflak Voyvodasının Sarayı",
+    "description": "Geniş ovalar üzerine kurulmuş, bağlık bahçelik, kiliseleri bol bir şehirdir. Osmanlı'ya bağlı Eflak Beyleri burada oturur.",
+    "detail": "Evliya, Eflak halkının giyim kuşamını, düğün adetlerini ve voyvoda sarayının ihtişamını anlatır. Şehrin sokaklarının ahşap kütüklerle döşeli olduğunu yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Curtea_Veche_Bucharest.jpg/800px-Curtea_Veche_Bucharest.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Yaş (Jassy - Boğdan)",
+    "type": "city",
+    "coords": [
+      47.1585,
+      27.6014
+    ],
+    "iconType": "book",
+    "excerpt": "Boğdan'ın Başkenti",
+    "description": "Ormanlar içinde, havası serin, suları latif bir şehirdir. Boğdan Voyvodasının sarayı ve süslü kiliseleri vardır.",
+    "detail": "Buradaki manastırların zenginliğini ve halkın tarımla uğraştığını belirtir. Boğdan atlarının dayanıklılığından bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palace_of_Culture_Iasi.jpg/800px-Palace_of_Culture_Iasi.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Kefe (Feodosia)",
+    "type": "city",
+    "coords": [
+      45.0328,
+      35.3736
+    ],
+    "iconType": "ship",
+    "excerpt": "Küçük İstanbul",
+    "description": "Kırım'ın en büyük limanı ve ticaret merkezidir. O kadar kalabalık ve mamurdur ki Evliya buraya 'Küçük İstanbul' der.",
+    "detail": "Kefe'nin köle pazarını (o dönemin acı bir gerçeği), 100'den fazla camisini ve limandaki gemi trafiğini detaylıca anlatır. Şehrin surları Cenevizlilerden kalmadır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Genoese_fortress_Kaffa.jpg/800px-Genoese_fortress_Kaffa.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bahçesaray",
+    "type": "landmark",
+    "coords": [
+      44.7489,
+      33.8608
+    ],
+    "iconType": "crown",
+    "excerpt": "Altın Orda'nın Mirasçısı",
+    "description": "Kırım Hanlarının oturduğu, vadiler arasına gizlenmiş, cennet misali bir şehirdir. Hansaray buradadır.",
+    "detail": "Evliya, Han Sarayı'nın (Hansaray) süslemelerini, 'Gözyaşı Çeşmesi'ni ve Kırım Hanlarının ihtişamlı hayatını anlatır. Tatarların at üstündeki maharetlerini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bakhchisaray_Palace_Turkey.jpg/800px-Bakhchisaray_Palace_Turkey.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Azak Kalesi",
+    "type": "landmark",
+    "coords": [
+      47.1124,
+      39.4232
+    ],
+    "iconType": "anchor",
+    "excerpt": "Don Nehri'nin Ağzı",
+    "description": "Don Nehri'nin Azak Denizi'ne döküldüğü yerde, sazlıklar ve bataklıklar arasında stratejik bir kaledir.",
+    "detail": "Rus ve Kazak akınlarına karşı Osmanlı'nın en ileri karakoludur. Evliya, buradaki balık bolluğunu ve kaledeki askerlerin zorlu yaşam şartlarını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azov_Fortress_Ramparts.jpg/800px-Azov_Fortress_Ramparts.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Çerkezistan",
+    "type": "nature",
+    "coords": [
+      43.6,
+      40.1
+    ],
+    "iconType": "mountain",
+    "excerpt": "Kaf Dağı'nın Ardı",
+    "description": "Sarp dağlar, derin vadiler ve balta girmemiş ormanlarla kaplı gizemli bir diyardır.",
+    "detail": "Evliya Çelebi, Çerkez kabilelerinin (Abaza, Kabartay) ilginç geleneklerini, ağaçlara oydukları kovanlardan aldıkları balı ve savaşçılıklarını anlatır. 'Obur' dedikleri cadı efsanelerinden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Caucasus_Mountains_View.jpg/800px-Caucasus_Mountains_View.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Derbent (Dağıstan)",
+    "type": "landmark",
+    "coords": [
+      42.0608,
+      48.2896
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Demirkapı",
+    "description": "Hazar Denizi ile Kafkas Dağları arasındaki dar geçidi kapatan, Büyük İskender'in yaptığı söylenen devasa surlardır.",
+    "detail": "Şehrin kapılarının demirden olduğunu, surların denizin içine kadar uzandığını yazar. Burası kuzeyden gelen kavimlere (Ye'cuc Me'cuc gibi) karşı bir set gibidir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Derbent_Citadel_Naryn-Kala.jpg/800px-Derbent_Citadel_Naryn-Kala.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ejderhan (Astrahan)",
+    "type": "city",
+    "coords": [
+      46.3497,
+      48.0408
+    ],
+    "iconType": "snowflake",
+    "excerpt": "İdil Nehri'nin İncisi",
+    "description": "Moskov (Rus) elindeki bu şehir, İdil (Volga) Nehri'nin Hazar'a döküldüğü yerdedir. Kışları dehşetli soğuktur.",
+    "detail": "Evliya, İdil Nehri'nin donduğu zaman buz üstünde kızaklarla (kızakları 'gemi gibi' tarif eder) nasıl gidildiğini anlatır. Mersin balığı ve havyar ticaretinin merkezidir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Astrakhan_Kremlin_Bell_Tower.jpg/800px-Astrakhan_Kremlin_Bell_Tower.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Saray (Eski Saray)",
+    "type": "wonder",
+    "coords": [
+      48.15,
+      45.35
+    ],
+    "iconType": "skull",
+    "excerpt": "Altın Orda'nın Harabeleri",
+    "description": "Bir zamanlar dünyayı titreten Altın Orda Devleti'nin başkentiydi. Şimdi ise devasa harabelerle doludur.",
+    "detail": "Evliya, buradaki yıkıntıların büyüklüğüne bakarak eski şehrin ne kadar muazzam olduğunu hayal eder. Mezar taşlarındaki yazıları inceler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sarai_Batu_Reconstruction.jpg/800px-Sarai_Batu_Reconstruction.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Moskova",
+    "type": "city",
+    "coords": [
+      55.7558,
+      37.6173
+    ],
+    "iconType": "church",
+    "excerpt": "Moskov Çarı'nın Payitahtı",
+    "description": "Kuzeyin kalbinde, kiliseleri, çan kuleleri ve ahşap saraylarıyla garip bir şehirdir. Soğuğu o derecedir ki 'tükürük yere düşmeden donar'.",
+    "detail": "Evliya Çelebi, Rus Çarı'nın hazinesini, askerlerinin çokluğunu ve Kremlin Sarayı'nı anlatır. Şehirdeki devasa çanların sesinin insanı sağır edecek kadar gürültülü olduğunu yazar. Samur kürkü burada boldur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Saint_Basil%27s_Cathedral_Moscow.jpg/800px-Saint_Basil%27s_Cathedral_Moscow.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Çigirin Kalesi",
+    "type": "landmark",
+    "coords": [
+      49.0775,
+      32.6611
+    ],
+    "iconType": "shield-halved",
+    "excerpt": "Kazakların Kalesi",
+    "description": "Ukrayna steplerinde, Osmanlı ordusunun çetin savaşlar verdiği, bataklık ve ormanlık arazideki güçlü bir kaledir.",
+    "detail": "Evliya, IV. Mehmed'in Lehistan seferi sırasındaki Çigirin kuşatmasını anlatır. Barut mahzeninin patlamasıyla kalenin havaya uçuşunu 'kıyamet gibi' tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chyhyryn_Castle_Hill.jpg/800px-Chyhyryn_Castle_Hill.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Balaklava",
+    "type": "city",
+    "coords": [
+      44.5,
+      33.6
+    ],
+    "iconType": "fish",
+    "excerpt": "Balık Yuvası",
+    "description": "Kırım'da, denizin karanın içine girdiği, fırtınadan kaçan gemilerin sığındığı doğal bir limandır.",
+    "detail": "Buradaki balık bolluğunu anlatırken, 'kefal balığını elle tutmak mümkündür' der. Limanın ağzındaki zincirle gemi giriş çıkışının kontrol edildiğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Balaklava_Bay_View.jpg/800px-Balaklava_Bay_View.jpg"
+    ]
+  },
+  {
+    "id": 7016,
+    "title": "Kırım Adası",
+    "type": "nature",
+    "coords": [
+      45.0,
+      34.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Adalar",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg/800px-Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg"
+    ]
+  }
+]

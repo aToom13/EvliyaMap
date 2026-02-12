@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "title": "Budin (Budapeşte)",
+    "type": "city",
+    "coords": [
+      47.4979,
+      19.0402
+    ],
+    "iconType": "crown",
+    "excerpt": "Nazlı Budin",
+    "description": "Tuna Nehri'nin kenarında, 'Kızıl Elma' yolunun en büyük durağıdır. Kalesi, baruthaneleri ve yüzlerce camisiyle İslam'ın Avrupa'daki kilididir.",
+    "detail": "Evliya Çelebi, Budin'in şifalı kaplıcalarını (Ilıca) uzun uzun anlatır. Gül Baba Türbesi'nin manevi havasını ve şehrin bağlık bahçelik güzelliğini över. 'Budin'in havası suyu insanı mest eder' der.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Budapest_Hungarian_Parliament_Building_fram_Fisherman%27s_Bastion.jpg/800px-Budapest_Hungarian_Parliament_Building_fram_Fisherman%27s_Bastion.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Estergon Kalesi",
+    "type": "landmark",
+    "coords": [
+      47.7994,
+      18.7412
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Estergon Kalesi Su Başı Durak",
+    "description": "Tuna kıyısında, sarp kayalar üzerine kurulu, türkülere konu olmuş efsanevi bir kaledir. Defalarca el değiştirmiş, her taşı şehit kanıyla sulanmıştır.",
+    "detail": "Evliya, kalenin fethedilmesinin zorluğunu ve askerlerin çektiği cefayı anlatır. Kaledeki ezan sesinin Tuna'nın karşı yakasından (Ciğerdelen) duyulduğunu söyler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Esztergom_Basilica_from_Sturovo.jpg/800px-Esztergom_Basilica_from_Sturovo.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Uyvar Kalesi",
+    "type": "landmark",
+    "coords": [
+      47.9855,
+      18.1614
+    ],
+    "iconType": "shield-halved",
+    "excerpt": "Uyvar Önünde Bir Türk Gibi",
+    "description": "Avrupa'nın en modern ve en güçlü kalelerinden biriydi. Fethi o kadar zor oldu ve Türk askeri o kadar büyük kahramanlık gösterdi ki bu deyim tarihe geçti.",
+    "detail": "Çelebi, kalenin hendeklerinin genişliğini ve surların sağlamlığını abartıyla anlatır. Fethinden sonra kalede yapılan şenlikleri ve okunan ilk ezanı tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nove_Zamky_Main_Square.jpg/800px-Nove_Zamky_Main_Square.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kanije Kalesi",
+    "type": "wonder",
+    "coords": [
+      46.4582,
+      16.9928
+    ],
+    "iconType": "chess-rook",
+    "excerpt": "Tiryaki Hasan Paşa'nın Dehası",
+    "description": "Bataklıklar ortasında, küçük ama kahraman bir kaledir. Tiryaki Hasan Paşa'nın azıcık askerle koca orduyu nasıl perişan ettiğinin canlı şahididir.",
+    "detail": "Evliya, Hasan Paşa'nın düşmanı yanıltmak için kurduğu tuzakları, mehter marşlarıyla düşmana nasıl korku saldığını ve zaferin mucizevi yanlarını coşkuyla anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kanizsa_Castle_Ruins.jpg/800px-Kanizsa_Castle_Ruins.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Peçuy (Pécs)",
+    "type": "city",
+    "coords": [
+      46.0727,
+      18.2323
+    ],
+    "iconType": "book-open",
+    "excerpt": "İlim ve İrfan Şehri",
+    "description": "Macaristan'ın cennet köşelerinden biridir. Camileri, medreseleri, kütüphaneleri ve zarif şadırvanlarıyla tam bir Osmanlı şehridir.",
+    "detail": "Şehirdeki Yakovalı Hasan Paşa Camii'ni ve İdris Baba Türbesi'ni ziyaret eder. Peçuy'un suyunun lezzetini ve halkının nezaketini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pecs_Szechenyi_ter_Dzsami.jpg/800px-Pecs_Szechenyi_ter_Dzsami.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Mostar Köprüsü",
+    "type": "wonder",
+    "coords": [
+      43.3373,
+      17.815
+    ],
+    "iconType": "archway",
+    "excerpt": "Kudret Kemeri",
+    "description": "Neretva Nehri üzerinde, Mimar Sinan'ın talebesi Mimar Hayreddin'in yaptığı, sanki gökyüzüne asılmış bir yay gibi duran eşsiz köprüdür.",
+    "detail": "Evliya Çelebi köprüyü görünce hayretler içinde kalır: 'Ben onca diyar gezdim, böyle bir sanat eseri görmedim' der. Köprünün üzerinden nehre atlayan cesur gençleri (bugünkü gibi) anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stari_Most_Mostar.jpg/800px-Stari_Most_Mostar.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sigetvar",
+    "type": "landmark",
+    "coords": [
+      46.0486,
+      17.8042
+    ],
+    "iconType": "skull",
+    "excerpt": "Muhteşem Süleyman'ın Son Durağı",
+    "description": "Kanuni Sultan Süleyman'ın son seferinde vefat ettiği ve iç organlarının gömüldüğü yerdir. Osmanlı tarihi için hüzünlü ama kutsal bir mekandır.",
+    "detail": "Evliya, Sultan Süleyman'ın türbesini ziyaret eder. Kalenin etrafındaki bataklıkları ve Zirinoğlu ile yapılan çetin savaşları anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Szigetvar_Castle.jpg/800px-Szigetvar_Castle.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mohaç Ovası",
+    "type": "landmark",
+    "coords": [
+      45.9935,
+      18.6831
+    ],
+    "iconType": "horse",
+    "excerpt": "Büyük Zafer Meydanı",
+    "description": "Osmanlı ordusunun Macar krallığını iki saatte yok ettiği o muazzam savaşın yaşandığı geniş ovadır.",
+    "detail": "Evliya, savaş alanını gezerken şehitlerin ruhuna dua eder. Toprağın hala kemiklerle dolu olduğunu ve ovanın bereketinin şehit kanından geldiğini söyler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mohacs_Battle_Memorial.jpg/800px-Mohacs_Battle_Memorial.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Vidin Kalesi",
+    "type": "landmark",
+    "coords": [
+      43.9962,
+      22.8679
+    ],
+    "iconType": "shield",
+    "excerpt": "Tuna'nın Bekçisi",
+    "description": "Tuna Nehri kıyısında, Baba Vida adıyla bilinen, kuleleri ve surlarıyla heybetli bir kaledir. Nehir ticaretinin kontrol noktasıdır.",
+    "detail": "Kalenin efsanesini anlatır: 'Vida isimli bir prenses tarafından yaptırılmıştır'. Tuna'dan tutulan mersin balıklarının büyüklüğünü ve kaledeki topların menzilini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Baba_Vida_Fortress_Vidin.jpg/800px-Baba_Vida_Fortress_Vidin.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "İstolni Belgrad (Székesfehérvár)",
+    "type": "city",
+    "coords": [
+      47.1899,
+      18.4103
+    ],
+    "iconType": "crown",
+    "excerpt": "Kralların Taht Şehri",
+    "description": "Macar krallarının taç giydiği ve gömüldüğü, kiliseleri ve saraylarıyla meşhur eski bir başkenttir.",
+    "detail": "Evliya, şehirdeki saat kulesini ve mekanik saatlerin (çalar saatlerin) acayipliğini anlatır. Kralların mezarlarındaki hazinelerden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_Bory_Castle.jpg/800px-Sz%C3%A9kesfeh%C3%A9rv%C3%A1r_Bory_Castle.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Taşlıca (Pljevlja)",
+    "type": "city",
+    "coords": [
+      43.3575,
+      19.3514
+    ],
+    "iconType": "water",
+    "excerpt": "Hersek'in Suyu Bol Şehri",
+    "description": "Dağlar arasında, Hüseyin Paşa Camii ile süslü, suları gürül gürül akan şirin bir kasabadır.",
+    "detail": "Şehrin bahçelerinin güzelliğini, havasının temizliğini ve halkının dinçliğini anlatır. Taşlıca'nın 'taşlı' adına rağmen ne kadar yeşil olduğunu vurgular.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Husein_Pasa_Mosque_Pljevlja.jpg/800px-Husein_Pasa_Mosque_Pljevlja.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ciğerdelen Kalesi",
+    "type": "landmark",
+    "coords": [
+      47.799,
+      18.725
+    ],
+    "iconType": "fire",
+    "excerpt": "Düşmanın Ciğerini Delen Yer",
+    "description": "Estergon Kalesi'nin tam karşısında, Tuna'nın diğer yakasında, düşmana korku salan bir palankadır.",
+    "detail": "İsminin neden 'Ciğerdelen' olduğunu, buradaki akıncıların düşmanın yüreğine (ciğerine) nasıl korku saldığını anlatır. Küçük ama stratejik bir noktadır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sturovo_Danube.jpg/800px-Sturovo_Danube.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Foça (Bosna)",
+    "type": "city",
+    "coords": [
+      43.5072,
+      18.7786
+    ],
+    "iconType": "tree",
+    "excerpt": "Drina Güzeli",
+    "description": "Drina Nehri kıyısında, Alaca Camii gibi süslü camileri olan, ormanlar içinde bir şehirdir.",
+    "detail": "Evliya, Drina Nehri'nde yapılan sallarla taşımacılığı ve nehrin suyunun berraklığını över. Alaca Camii'nin kalem işi süslemelerine hayran kalır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Foca_Aladza_Mosque.jpg/800px-Foca_Aladza_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Öziçe Kalesi (Užice)",
+    "type": "wonder",
+    "coords": [
+      43.8556,
+      19.8425
+    ],
+    "iconType": "mountain",
+    "excerpt": "Kartal Yuvası",
+    "description": "Sarp bir kayalığın tepesinde, nehre tepeden bakan, ulaşılması zor bir kaledir. Sanki gökyüzüne asılmıştır.",
+    "detail": "Evliya Çelebi, kaleye çıkarken çektiği zorluğu, yukarıdan bakınca aşağıda akan nehrin ip gibi göründüğünü abartılı bir dille anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Uzice_Fortress.jpg/800px-Uzice_Fortress.jpg"
+    ]
+  },
+  {
+    "id": 6015,
+    "title": "Belgrad Kalesi",
+    "type": "fortress",
+    "coords": [
+      44.82333,
+      20.45028
+    ],
+    "iconType": "fortress",
+    "excerpt": "Sırbistan",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Beograd_2013_-_panoramio_%2834%29.jpg/800px-Beograd_2013_-_panoramio_%2834%29.jpg"
+    ]
+  }
+]

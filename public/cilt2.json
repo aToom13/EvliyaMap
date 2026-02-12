@@ -1,0 +1,162 @@
+[
+  {
+    "id": 201,
+    "title": "Bursa Ulu Camii",
+    "type": "landmark",
+    "coords": [
+      40.1833,
+      29.0616
+    ],
+    "iconType": "mosque",
+    "excerpt": "Bursa'nın Ayasofya'sı",
+    "description": "Yıldırım Han yapısı, içi ferah ve ruhaniyetli bir camidir. Evliya'ya göre 'Bursa'nın Ayasofya'sıdır'. Duvarlarındaki hat yazıları göze ve gönle şifadır.",
+    "detail": "Evliya Çelebi, caminin içindeki şadırvanın su sesinin cemaate huzur verdiğini, minberinin kainatta eşi benzeri olmadığını anlatır. Hızır Aleyhisselam'ın burada namaz kıldığına inanılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bursa_Ulu_Cami_Main_Entrance.jpg/800px-Bursa_Ulu_Cami_Main_Entrance.jpg"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Yeşil Türbe (Bursa)",
+    "type": "landmark",
+    "coords": [
+      40.1811,
+      29.0747
+    ],
+    "iconType": "kaaba",
+    "excerpt": "Cennet Bahçesi Gibi",
+    "description": "Çelebi Sultan Mehmed'in ebedi istirahatgahıdır. Dışı yeşil çinilerle kaplı, içi ise sanatın zirvesidir.",
+    "detail": "Evliya, türbenin nakışlarını ve çinilerini o kadar över ki, 'insan hayranlığından parmağını ısırır' der. Bursa'nın manevi bekçilerindendir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Green_Tomb_Bursa_Turkey.jpg/800px-Green_Tomb_Bursa_Turkey.jpg"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Eski Kaplıca (Bursa)",
+    "type": "wonder",
+    "coords": [
+      40.2036,
+      29.0344
+    ],
+    "iconType": "water",
+    "excerpt": "Şifalı Sular",
+    "description": "Allah'ın hikmetiyle kaynayan, kükürtlü ve şifalı sulardır. Nice hasta buraya sedyeyle girip yürüyerek çıkar.",
+    "detail": "Çelebi, suyun sıcaklığının o derece olduğunu söyler ki, içine yumurta koysan pişer. Sultanların ve vezirlerin burada günlerce sefa sürdüğünü anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bursa_Eski_Kapl%C4%B1ca_1.jpg/800px-Bursa_Eski_Kapl%C4%B1ca_1.jpg"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Uludağ (Keşiş Dağı)",
+    "type": "nature",
+    "coords": [
+      40.0694,
+      29.2214
+    ],
+    "iconType": "mountain",
+    "excerpt": "Buz ve Kar Diyarı",
+    "description": "Zirvesi bulutlardan görünmeyen heybetli bir dağdır. Yazın ortasında bile kar eksik olmaz.",
+    "detail": "Evliya, İstanbul'un ve sarayın buz ihtiyacının buradan karşılandığını, dağda yaşayan keşişleri ve buz gibi pınarları uzun uzun tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Uludag_Summit.jpg/800px-Uludag_Summit.jpg"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Bolu Dağları",
+    "type": "nature",
+    "coords": [
+      40.735,
+      31.6061
+    ],
+    "iconType": "tree",
+    "excerpt": "Köroğlu'nun Mekanı",
+    "description": "Orman deryasıdır. Ağaçlarının sıklığından güneş ışığı yere düşmez. Havası sert, insanı merttir.",
+    "detail": "Evliya Çelebi, Bolu'nun aşçılarının maharetinden ve ormanlarında yaşayan geyiklerden bahseder. Ayrıca Köroğlu efsanelerine de atıfta bulunur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lake_Abant_Nature_Park.jpg/800px-Lake_Abant_Nature_Park.jpg"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Trabzon Kalesi",
+    "type": "city",
+    "coords": [
+      41.0055,
+      39.7225
+    ],
+    "iconType": "fortress",
+    "excerpt": "Aşağı ve Yukarı Hisar",
+    "description": "Karadeniz'in hırçın dalgalarına bakan, bağlık bahçelik, suyu ve havası latif bir şehirdir.",
+    "detail": "Şehrin gümüş işçiliği (telkari) meşhurdur. Evliya, Trabzonluların hamsiye olan düşkünlüğünü mizahi bir dille anlatır: 'Hamsi kurban olarum...' diye şiirler okuduklarını yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trabzon_Walls.jpg/800px-Trabzon_Walls.jpg"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Erzurum",
+    "type": "city",
+    "coords": [
+      39.9042,
+      41.2678
+    ],
+    "iconType": "snowflake",
+    "excerpt": "Efsanevi Soğuklar Diyarı",
+    "description": "Doğu'nun kilidi, sağlam kalesi ve medreseleriyle meşhurdur. Lakin soğuğu dillere destandır.",
+    "detail": "Evliya Çelebi meşhur kedi hikayesini anlatır: 'Bir kedi damdan dama atlarken havada dondu, sekiz ay sonra don çözülünce 'miyav' deyip yere düştü.' Halkının çetin ama misafirperver olduğunu söyler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cifte_Minareli_Medrese_Erzurum.jpg/800px-Cifte_Minareli_Medrese_Erzurum.jpg"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Bakü (Azerbaycan)",
+    "type": "wonder",
+    "coords": [
+      40.4093,
+      49.8671
+    ],
+    "iconType": "fire",
+    "excerpt": "Yanan Topraklar",
+    "description": "Hazar Denizi kıyısında garip bir diyardır. Toprağı kazsan siyah yağ (petrol) fışkırır.",
+    "detail": "Evliya, yerden çıkan ateşleri (Yanardağ) ve bu ateşlerde yemek pişiren halkı hayretle anlatır. Geceleyin şehrin aydınlık olduğunu, petrolün kandillerde yakıldığını yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Baku_Maiden_Tower.jpg/800px-Baku_Maiden_Tower.jpg"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Tebriz",
+    "type": "city",
+    "coords": [
+      38.0962,
+      46.2738
+    ],
+    "iconType": "shop",
+    "excerpt": "İran'ın Gözbebeği",
+    "description": "Büyük çarşıları, süslü camileri ve şair ruhlu insanlarıyla muazzam bir şehirdir.",
+    "detail": "Çelebi, Şan Gazan Kubbesi'nin büyüklüğünü över. Çarşılarında satılan kumaşların, halıların ve ipeklerin güzelliğini anlatmakla bitiremez.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tabriz_El_Goli_Park.jpg/800px-Tabriz_El_Goli_Park.jpg"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Bahçesaray (Kırım)",
+    "type": "landmark",
+    "coords": [
+      44.748,
+      33.881
+    ],
+    "iconType": "crown",
+    "excerpt": "Hanlar Sarayı",
+    "description": "Kırım Hanlarının oturduğu, cennet bahçesi gibi bir vadide kurulmuş saraydır.",
+    "detail": "Evliya Çelebi, Han Sarayı'nın ihtişamını, Gözyaşı Çeşmesi'ni ve Kırım atlılarının (Tatarların) cengaverliğini övgüyle anlatır. Kırım'ın bereketli topraklarından bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bakhchisaray_Palace_Turkey.jpg/800px-Bakhchisaray_Palace_Turkey.jpg"
+    ]
+  }
+]

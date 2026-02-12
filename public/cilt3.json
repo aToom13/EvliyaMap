@@ -1,0 +1,178 @@
+[
+  {
+    "id": 301,
+    "title": "Konya (Mevlana Dergahı)",
+    "type": "landmark",
+    "coords": [
+      37.8716,
+      32.505
+    ],
+    "iconType": "book-quran",
+    "excerpt": "Aşıklar Kabesi",
+    "description": "Molla Hünkar Celaleddin-i Rumi hazretlerinin diyarıdır. Şehir maneviyat doludur, sokaklarında misk ve amber kokusu duyulur.",
+    "detail": "Evliya Çelebi, Mevlevi dervişlerinin sema ayinlerini ve dergahın manevi atmosferini hayranlıkla anlatır. 'Burada insan dünyadan geçer, ahireti bulur' der.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mevlana_Museum_Konya.jpg/800px-Mevlana_Museum_Konya.jpg"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Kayseri Kalesi",
+    "type": "city",
+    "coords": [
+      38.7205,
+      35.4826
+    ],
+    "iconType": "mountain",
+    "excerpt": "Erciyes'in Eteğinde",
+    "description": "Erciyes Dağı'nın gölgesinde, kalesi muhkem, surları siyah taştan yapılmış çetin bir şehirdir. Pastırması ve sucuğu dillere destandır.",
+    "detail": "Evliya, Kayseri halkının zekasından ve ticaret ehli oluşundan övgüyle bahseder. Erciyes Dağı'nın tepesindeki karın yazın bile erimediğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kayseri_Castle_Turkey.jpg/800px-Kayseri_Castle_Turkey.jpg"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Şam-ı Şerif (Dımeşk)",
+    "type": "landmark",
+    "coords": [
+      33.5138,
+      36.2765
+    ],
+    "iconType": "mosque",
+    "excerpt": "Cennet Bahçesi",
+    "description": "Emevi Camii gibi bir şaheseri barındıran, suları bol, meyvesi çok, dünya cenneti misali bir şehirdir.",
+    "detail": "Evliya, Emevi Camii'nin minarelerinin güzelliğini ve Şam halkının Hac kervanlarını (Surre Alayı) nasıl uğurladığını coşkuyla anlatır. Çarşılarının bolluğu ve bereketini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Umayyad_Mosque_Damascus.jpg/800px-Umayyad_Mosque_Damascus.jpg"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Antakya",
+    "type": "city",
+    "coords": [
+      36.2023,
+      36.1613
+    ],
+    "iconType": "archway",
+    "excerpt": "Habib-i Neccar Diyarı",
+    "description": "Asi Nehri kenarında, havası latif, kadim bir şehirdir. Surları dağlara tırmanır.",
+    "detail": "Şehrin surlarının uzunluğu ve heybeti Evliya'yı şaşırtır. Habib-i Neccar Hazretleri'nin makamının burada olması şehre ayrı bir kutsiyet katar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Habib-i_Neccar_Mosque.jpg/800px-Habib-i_Neccar_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Şanlıurfa (Ruha)",
+    "type": "wonder",
+    "coords": [
+      37.1674,
+      38.7955
+    ],
+    "iconType": "fish",
+    "excerpt": "Halil İbrahim Makamı",
+    "description": "Hz. İbrahim'in doğduğu, Nemrut'un ateşinin suya, odunların balığa dönüştüğü mübarek beldedir.",
+    "detail": "Evliya Çelebi, Balıklıgöl'deki balıkların kutsal olduğunu, kimsenin onlara dokunamadığını anlatır. Halil İbrahim sofrasının bereketinin şehre yansıdığını söyler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bal%C4%B1kl%C4%B1g%C3%B6l_Urfa.jpg/800px-Bal%C4%B1kl%C4%B1g%C3%B6l_Urfa.jpg"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Sivas Gök Medrese",
+    "type": "landmark",
+    "coords": [
+      39.7483,
+      37.015
+    ],
+    "iconType": "school",
+    "excerpt": "Danişment İllerinin İncisi",
+    "description": "Çifte minareli, kapısı nakış nakış işlenmiş, görenin aklını başından alan bir ilim yuvasıdır.",
+    "detail": "Sivas'ın soğuğunun Erzurum ile yarıştığını ama insanının sıcakkanlı olduğunu belirtir. Medresenin taş işçiliğine hayran kalır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/G%C3%B6k_Medrese_Sivas.jpg/800px-G%C3%B6k_Medrese_Sivas.jpg"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Payas Kalesi ve Sokollu Külliyesi",
+    "type": "landmark",
+    "coords": [
+      36.7558,
+      36.2075
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Tehlikeli Geçit",
+    "description": "Deniz kıyısında, Sokollu Mehmed Paşa'nın yaptırdığı muazzam bir menzildir. Buradan geçen 'Demirkapı' yolu haramilerin ve çetin şartların olduğu korkulu bir yerdir.",
+    "detail": "Evliya, Payas Kalesi'nin hendeğinin derinliğini ve Sokollu Külliyesi'nin yolculara nasıl sığınak olduğunu anlatır. Portakal ve turunç bahçelerinin güzelliğinden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Payas_Castle.jpg/800px-Payas_Castle.jpg"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Gazze",
+    "type": "city",
+    "coords": [
+      31.5017,
+      34.4668
+    ],
+    "iconType": "tree-palm",
+    "excerpt": "Çölün Kapısı",
+    "description": "Mısır yolunda, kumlar arasında yeşil bir vahadır. Bağları, bahçeleri ve zeytinlikleri boldur.",
+    "detail": "Şehrin kalesinin sağlamlığını ve İpek Yolu üzerindeki önemini vurgular. Haşim Peygamber'in (Hz. Muhammed'in dedesi) türbesinin burada olduğunu belirtir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Great_Mosque_of_Gaza.jpg/800px-Great_Mosque_of_Gaza.jpg"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Edirne Selimiye Camii",
+    "type": "wonder",
+    "coords": [
+      41.6782,
+      26.5594
+    ],
+    "iconType": "mosque",
+    "excerpt": "Mimar Sinan'ın Ustalık Eseri",
+    "description": "Şehrin tacı, Osmanlı mimarisinin zirvesidir. Dört minaresi göğe kalem gibi çekilmiştir.",
+    "detail": "Evliya Çelebi, kubbesinin büyüklüğünün Ayasofya'yı geçtiğini iddia eder. Caminin içindeki ters lale motifinin hikayesini ve müezzin mahfilinin güzelliğini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Selimiye_Mosque_Edirne.jpg/800px-Selimiye_Mosque_Edirne.jpg"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Sofya",
+    "type": "city",
+    "coords": [
+      42.6977,
+      23.3219
+    ],
+    "iconType": "bath",
+    "excerpt": "Rumeli'nin Gülü",
+    "description": "Balkanların göbeğinde, suyu bol, havası serin, kaplıcaları meşhur bir şehirdir.",
+    "detail": "Evliya, Sofya'nın ılıcalarının şifalı olduğunu, şehrin düzenli çarşılarını ve Rumeli beylerbeyinin makamı olduğunu anlatır. Banyabaşı Camii'nin güzelliğine değinir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Banya_Bashi_Mosque_Sofia.jpg/800px-Banya_Bashi_Mosque_Sofia.jpg"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "Kahramanmaraş",
+    "type": "city",
+    "coords": [
+      37.5753,
+      36.9228
+    ],
+    "iconType": "shield",
+    "excerpt": "Zülkadiroğlu Başkenti",
+    "description": "Ahır Dağı eteğinde, suyu ve havası latif, kalesi sarp bir şehirdir. Halkı yiğittir.",
+    "detail": "Şehrin bağlarını ve bahçelerini över. Kalesindeki aslan heykellerinden ve eski camilerinden bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Maras_Kalesi.jpg/800px-Maras_Kalesi.jpg"
+    ]
+  }
+]

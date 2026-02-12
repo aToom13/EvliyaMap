@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "title": "Mısır-ı Kahire (Kahire)",
+    "type": "city",
+    "coords": [
+      30.0444,
+      31.2357
+    ],
+    "iconType": "landmark",
+    "excerpt": "Şehirlerin Anası, Dünyanın İncisi",
+    "description": "Yeryüzünün en mamur şehri. Evliya Çelebi burada Kale'yi, El-Ezher Camii'ni, Tolunoğlu Camii'ni ve binlerce hamamı anlatır. 'Mısır'a girmeyen dünyayı görmemiştir' der.",
+    "detail": "10. Cildin neredeyse yarısı Kahire'ye ayrılmıştır. Nil kenarındaki mesire yerleri, tılsımlı sütunlar ve halkın yaşayışı detaylıca anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cairo_Citadel_2.jpg/800px-Cairo_Citadel_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Al-Azhar_Mosque_Cairo_1.jpg/800px-Al-Azhar_Mosque_Cairo_1.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/hZ1OgQL9_Qs?si=cairo"
+  },
+  {
+    "id": 2,
+    "title": "Bulak (Kahire Limanı)",
+    "type": "city",
+    "coords": [
+      30.065,
+      31.225
+    ],
+    "iconType": "anchor",
+    "excerpt": "Nil'in İşlek Limanı",
+    "description": "Kahire'nin Nil kıyısındaki iskelesidir. Bütün gemiler buraya yanaşır, gümrük buradadır. Şeker ve pirinç ambarları ile doludur.",
+    "detail": "Evliya Çelebi Bulak'taki ticaretin yoğunluğunu ve gemi tersanelerini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bulaq_1800.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ehramlar (Giza Piramitleri)",
+    "type": "wonder",
+    "coords": [
+      29.9792,
+      31.1342
+    ],
+    "iconType": "mountain",
+    "excerpt": "Firavunların Dağ Gibi Mezarları",
+    "description": "Giza sahrasında göğe baş uzatmış, insan yapısı olduğuna inanılması güç dağ gibi yapılardır. Tılsımlı olduklarına inanılır.",
+    "detail": "Evliya, piramitlerin tufandan önce yapıldığını ve içinde hazineler ile cinlerin olduğunu rivayet eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/800px-All_Gizah_Pyramids.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Great_Sphinx_of_Giza_-_20080716a.jpg/800px-Great_Sphinx_of_Giza_-_20080716a.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/lE0Wj3e9K44?si=pyramids"
+  },
+  {
+    "id": 4,
+    "title": "İskenderiye",
+    "type": "landmark",
+    "coords": [
+      31.2001,
+      29.9187
+    ],
+    "iconType": "compass",
+    "excerpt": "İskender-i Zülkarneyn'in Şehri",
+    "description": "Deniz kenarında muazzam kalesi ve limanı olan, Frenk gemilerinin uğrak yeridir. İskenderiye Feneri'nin kalıntıları buradadır.",
+    "detail": "Şehrin surları, Kayıtbay Kalesi ve Pompey Sütunu (Dikilitaş) anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Citadel_of_Qaitbay.jpg/800px-Citadel_of_Qaitbay.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Reşid (Rosetta)",
+    "type": "city",
+    "coords": [
+      31.4,
+      30.4167
+    ],
+    "iconType": "waves",
+    "excerpt": "Nil ile Denizin Buluştuğu Yer",
+    "description": "Nil nehrinin Akdeniz'e döküldüğü yerdeki cennet misali bir şehirdir. Bağları, bahçeleri ve pirinci meşhurdur.",
+    "detail": "Evliya, Reşid Kalesi'ni ve buradaki nehir ticaretini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rosetta_City.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dimyat",
+    "type": "city",
+    "coords": [
+      31.4165,
+      31.8133
+    ],
+    "iconType": "anchor",
+    "excerpt": "Akdeniz'in Kapısı",
+    "description": "Eski zamanlardan beri Haçlılarla büyük savaşların yapıldığı müstahkem bir limandır. Dokumaları ve balığı boldur.",
+    "detail": "Dimyat kumaşları ve şehrin stratejik konumu anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Damietta_Egypt.jpg/1280px-Damietta_Egypt.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tanta (Ahmed El-Bedevi)",
+    "type": "landmark",
+    "coords": [
+      30.7865,
+      31.0004
+    ],
+    "iconType": "book",
+    "excerpt": "Kutb-ül Aktab Makamı",
+    "description": "Mısır'ın en büyük evliyalarından Seyyid Ahmed el-Bedevi'nin türbesinin olduğu yerdir. Yılda bir kez muazzam bir panayır kurulur.",
+    "detail": "Evliya, Tanta panayırındaki kalabalığı ve dervişlerin zikirlerini hayretle anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tanta-Sayyid_al-Badawi_Mosque.jpg/1280px-Tanta-Sayyid_al-Badawi_Mosque.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Süveyş (Kızıldeniz)",
+    "type": "city",
+    "coords": [
+      29.9668,
+      32.5498
+    ],
+    "iconType": "compass",
+    "excerpt": "Hint Denizi'nin Ağzı",
+    "description": "Kızıldeniz'in (Bahr-i Kulzum) başlangıcıdır. Hac kervanlarının ve Hint gemilerinin uğrak noktasıdır. Suyu kıttır.",
+    "detail": "Osmanlı donanmasının Kızıldeniz üssü olması bakımından önemlidir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Suez_Canal_Authority.jpg/1280px-Suez_Canal_Authority.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Mansure",
+    "type": "city",
+    "coords": [
+      31.0409,
+      31.3785
+    ],
+    "iconType": "city",
+    "excerpt": "Zafer Şehri",
+    "description": "Nil'in doğu kolu üzerinde, havası güzel ve halkı zengin bir şehirdir. Fransız kralının esir düştüğü yerdir.",
+    "detail": "Nil Deltası'nın iç kısımlarındaki zengin tarım alanları anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mansoura-Egypt.jpg/1280px-Mansoura-Egypt.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Feyyum",
+    "type": "nature",
+    "coords": [
+      29.3084,
+      30.8428
+    ],
+    "iconType": "scroll",
+    "excerpt": "Yusuf Peygamber'in Şehri",
+    "description": "Hz. Yusuf'un açtığı Bahr-i Yusuf kanalı ile sulanan, hurma ve üzüm bağlarıyla dolu bereketli bir vahadır.",
+    "detail": "Evliya, buradaki su kanallarının mühendisliğine ve tarımsal berekete dikkat çeker.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Fayum_Portrait.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Asyut",
+    "type": "city",
+    "coords": [
+      27.1783,
+      31.1859
+    ],
+    "iconType": "city",
+    "excerpt": "Yukarı Mısır'ın Merkezi",
+    "description": "Saîd (Yukarı Mısır) bölgesinin baş şehridir. Afyonu, şekeri ve Nil kenarındaki sarayları meşhurdur.",
+    "detail": "Buradaki eski Mısır kalıntıları ve mağaralar Evliya'nın ilgisini çeker.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Assiut_Egypt.jpg/1280px-Assiut_Egypt.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Girga",
+    "type": "city",
+    "coords": [
+      26.3419,
+      31.9059
+    ],
+    "iconType": "landmark",
+    "excerpt": "Eski Beylerbeyi Merkezi",
+    "description": "Nil kenarında büyük bir şehirdir. Eskiden Mısır'ın güney sancaklarının merkeziydi. Çevresinde çokça harabe vardır.",
+    "detail": "Bölgedeki Bedevi kabileleri ve yönetim yapısından bahseder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Along_the_Nile-14.jpg/1280px-Along_the_Nile-14.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Karnak ve Luksor (El-Aksur)",
+    "type": "wonder",
+    "coords": [
+      25.6959,
+      32.6407
+    ],
+    "iconType": "mountain",
+    "excerpt": "Devlerin Şehri",
+    "description": "Buradaki sütunları, heykelleri ve tapınakları anlatmaya kalem yetmez. Sanki devler tarafından yapılmıştır. Taşlarda resimler vardır.",
+    "detail": "Evliya Çelebi, Antik Mısır tapınaklarını 'ibret verici harabeler' olarak niteler ve tılsımlı olduklarına inanır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karnak_Temple_Complex_3.jpg/800px-Karnak_Temple_Complex_3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Esna",
+    "type": "landmark",
+    "coords": [
+      25.2933,
+      32.5564
+    ],
+    "iconType": "scroll",
+    "excerpt": "Tarihi Mabedler",
+    "description": "Nil kenarında, içi resimli taşlarla dolu acayip binaları olan bir kasabadır. Halkı gariptir.",
+    "detail": "Esna Tapınağı'nın kalıntılarını tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esna_Temple.jpg/1280px-Esna_Temple.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Asvan",
+    "type": "city",
+    "coords": [
+      24.0889,
+      32.8998
+    ],
+    "iconType": "sun",
+    "excerpt": "Mısır'ın Son Sınırı",
+    "description": "Mısır ile Nübye (Sudan) arasındaki sınırdır. Nil burada kayalara çarparak gürler (Kataraktlar). Sıcağı çok şiddetlidir.",
+    "detail": "Nil'in akışının değiştiği, timsahların bollaştığı yer olarak anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aswan_Nile.jpg/1280px-Aswan_Nile.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "İbrim Kalesi",
+    "type": "landmark",
+    "coords": [
+      22.649,
+      31.985
+    ],
+    "iconType": "mountain",
+    "excerpt": "Nübye Diyarının Kilidi",
+    "description": "Sarp bir kaya üzerinde, alınması güç bir kaledir. Osmanlı'nın en güneydeki uç karakollarından biridir.",
+    "detail": "Buradaki askerlerin yaşamı ve Nübye halkının adetleri anlatılır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Qasr_Ibrim.jpg/1280px-Qasr_Ibrim.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Kosayr",
+    "type": "anchor",
+    "coords": [
+      26.1075,
+      34.2761
+    ],
+    "iconType": "waves",
+    "excerpt": "Çöl Kıyısındaki Liman",
+    "description": "Nil'den develerle geçilen çöl yolunun sonundaki Kızıldeniz limanıdır. Hacılar buradan gemilere biner.",
+    "detail": "Kızıldeniz ticaret yolu ve Hac güzergahı üzerindeki önemi vurgulanır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Red_Sea_coast.jpg/1280px-Red_Sea_coast.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Sevakin Adası",
+    "type": "city",
+    "coords": [
+      19.1059,
+      37.3323
+    ],
+    "iconType": "anchor",
+    "excerpt": "Habeş Eyaleti'nin İncisi",
+    "description": "Kızıldeniz'de bir ada üzerinde kurulu, mercan taşından yapılmış evleriyle meşhur muazzam bir şehirdir. Habeş paşası burada oturur.",
+    "detail": "Şehrin mimarisi, stratejik önemi ve zenginliği Evliya'yı büyüler.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/Suakin_ruins.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Masave (Massawa)",
+    "type": "city",
+    "coords": [
+      15.6097,
+      39.45
+    ],
+    "iconType": "compass",
+    "excerpt": "Habeşistan Kapısı",
+    "description": "Habeşistan kıyısında önemli bir liman ve kaledir. Çok sıcaktır. İncisi meşhurdur.",
+    "detail": "Eritre kıyısındaki bu Osmanlı kalesi, iç bölgelere giden yolun başlangıcıdır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Massawa_port.jpg/1280px-Massawa_port.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Sinnar (Fung Sultanlığı)",
+    "type": "city",
+    "coords": [
+      13.55,
+      33.6
+    ],
+    "iconType": "sun",
+    "excerpt": "Kara Sultanlar Diyarı",
+    "description": "Sudan'ın derinliklerinde, Müslüman zenci sultanların hüküm sürdüğü büyük bir şehirdir. Halkı, adetleri ve hayvanları çok gariptir.",
+    "detail": "Evliya Çelebi'nin en güneydeki durağıdır. Buradaki fil, zürafa gibi hayvanları ve yerel kabileleri anlatır.",
+    "video": "https://www.youtube.com/embed/example_video",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blue_Nile_Sudan.jpg/1280px-Blue_Nile_Sudan.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Zeyla",
+    "type": "city",
+    "coords": [
+      11.353,
+      43.473
+    ],
+    "iconType": "waves",
+    "excerpt": "Somali Kıyısı",
+    "description": "Aden Körfezi girişinde tarihi bir limandır. Halkı Müslümandır.",
+    "detail": "Evliya Çelebi'nin anlatımlarında Kızıldeniz ve Afrika Boynuzu kıyıları da yer bulur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zeila_Ottoman_port.jpg/1280px-Zeila_Ottoman_port.jpg"
+    ]
+  },
+  {
+    "id": 10022,
+    "title": "Kızıldeniz",
+    "type": "nature",
+    "coords": [
+      22.0,
+      38.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Denizler",
+    "description": "Kızıldeniz(Arapça(1): ‏البحر الأحمر‎El-Bahr el-ahmar;Arapça(2): ‏الخليج العربي‎El-Halic el-Arabi;İbranice: ‏'ים סוף‎Yam Suf;Tigrin yaቀይሕ ባሕሪQey H ba Hri),Afrika ile As ya(Arap Yarımadası) arasın da yer alan,...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Red_Sea_topographic_map-de.svg/800px-Red_Sea_topographic_map-de.svg.png"
+    ]
+  }
+]

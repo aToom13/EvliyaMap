@@ -1,0 +1,989 @@
+[
+  {
+    "id": 1,
+    "title": "Ayasofya-i Kebir Camii",
+    "type": "landmark",
+    "coords": [
+      41.0086,
+      28.9802
+    ],
+    "iconType": "landmark",
+    "excerpt": "Dünyanın Sekizinci Harikası",
+    "description": "İslambol'un tacı, kubbelerin şahıdır. Evliya Çelebi'ye göre kubbesi gök kubbe ile yarışır. İnşasında Hızır Aleyhisselam'ın parmağının izi ve nice tılsımlar saklıdır.",
+    "detail": "Seyahatname'de 'Terleyen Direk'in şifalı olduğu, kapı tokmaklarının tılsımlı olduğu ve kıyamet gününe kadar yıkılmayacağı rivayet edilir. Evliya, kubbesinin genişliğini hayretle anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/800px-Hagia_Sophia_Mars_2013.jpg"
+    ],
+    "video": "https://www.youtube.com/watch?v=8Uv8GMHnc0U"
+  },
+  {
+    "id": 2,
+    "title": "Topkapı Sarayı (Saray-ı Cedid)",
+    "type": "landmark",
+    "coords": [
+      41.0115,
+      28.9833
+    ],
+    "iconType": "city",
+    "excerpt": "Osmanlı'nın Yönetim Merkezi",
+    "description": "Yedi iklim ve üç kıtaya hükmeden padişahların saadet kapısıdır. İçinde nice hazineler, kutsal emanetler, Has Oda ve dünyanın en nadide gülleri bulunur.",
+    "detail": "Evliya, sarayın mutfağından (Matbah-ı Amire) çıkan yemeklerin lezzetini ve saray halkının ihtişamını uzun uzun anlatır. Harem dairesinin gizemi ve Bağdat Köşkü'nün güzelliği övülür.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topkapi_Palace_Istanbul.jpg/800px-Topkapi_Palace_Istanbul.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Galata Kulesi",
+    "type": "wonder",
+    "coords": [
+      41.0256,
+      28.9741
+    ],
+    "iconType": "tower",
+    "excerpt": "Hezarfen'in Kanatlandığı Yer",
+    "description": "Cenevizlilerden yadigar, başı bulutlara değen heybetli bir kuledir. Hezarfen Ahmed Çelebi buradan kanat takıp Üsküdar'a, Doğancılar meydanına uçmuştur.",
+    "detail": "Evliya Çelebi bu uçuş hadisesini bizzat gözlemlediğini yazar. Kule, o dönemde zindan ve gözetleme kulesi olarak kullanılmaktadır. İstanbul'u seyretmek için cihannüma bir mekandır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Galata_Tower%2C_Istanbul.jpg/450px-Galata_Tower%2C_Istanbul.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Eyüp Sultan Türbesi",
+    "type": "landmark",
+    "coords": [
+      41.0481,
+      28.9339
+    ],
+    "iconType": "book",
+    "excerpt": "Mihmandar-ı Resul'ün Makamı",
+    "description": "İstanbul'un manevi koruyucusu Ebu Eyyub el-Ensari hazretlerinin yattığı yerdir. Osmanlı padişahları burada kılıç kuşanır, dualar edilir.",
+    "detail": "Fatih Sultan Mehmed Han zamanında Akşemseddin hazretlerinin keşfiyle mezarın nasıl bulunduğu detaylıca anlatılır. Çevresindeki servilikler ve huzur ortamı İstanbul'un ruhudur.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Istanbul_Ey%C3%BCp_Sultan_Mosque_Courtyard.jpg/800px-Istanbul_Ey%C3%BCp_Sultan_Mosque_Courtyard.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kız Kulesi",
+    "type": "wonder",
+    "coords": [
+      41.0211,
+      29.0041
+    ],
+    "iconType": "anchor",
+    "excerpt": "Deniz Ortasındaki İnci",
+    "description": "Boğazın suları arasında, karadan uzak latif bir kuledir. Hakkında nice efsaneler, yılan hikayeleri ve aşk masalları anlatılır.",
+    "detail": "Evliya, kulenin Battal Gazi tarafından nasıl kuşatıldığını ve hazinelerin saklandığı yer olduğunu da rivayetlerine ekler. Deniz feneri olarak gemilere yol gösterir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Maiden%27s_Tower_2023.jpg/800px-Maiden%27s_Tower_2023.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Süleymaniye Camii",
+    "type": "landmark",
+    "coords": [
+      41.0161,
+      28.9639
+    ],
+    "iconType": "landmark",
+    "excerpt": "Mimar Sinan'ın Kalfalık Eseri",
+    "description": "İstanbul'un en yüksek tepelerinden birine kurulmuş, bin yıl geçse de yıkılmayacak sağlamlıkta bir şaheserdir. İçindeki hava o kadar latiftir ki ibadet edenin ömrü uzar.",
+    "detail": "Evliya Çelebi, kubbenin akustiğini sağlamak için Mimar Sinan'ın kubbe eteklerine boş küpler yerleştirdiğini anlatır. İnşaat sırasında İran Şahı'nın gönderdiği elmasların minare harcına karıştırıldığı rivayet edilir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/S%C3%BCleymaniye_Mosque_view.jpg/800px-S%C3%BCleymaniye_Mosque_view.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "At Meydanı ve Dikilitaş",
+    "type": "wonder",
+    "coords": [
+      41.0063,
+      28.9758
+    ],
+    "iconType": "museum",
+    "excerpt": "Tılsımlı Sütunlar Diyarı",
+    "description": "Eski çağlardan kalma acayip ve garip sütunların bulunduğu meydandır. Dikilitaş (Theodosius Dikilitaşı) ve Yılanlı Sütun burada bulunur.",
+    "detail": "Seyahatname'ye göre bu sütunlar şehri yılanlardan, çiyanlardan ve afetlerden koruyan tılsımlara sahiptir. Yılanlı Sütun'un başı koptuğunda şehri yılanların bastığı söylenir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Istanbul_Hippodrome_Obelisk_of_Theodosius_03.jpg/450px-Istanbul_Hippodrome_Obelisk_of_Theodosius_03.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Yedikule Zindanları",
+    "type": "landmark",
+    "coords": [
+      40.9942,
+      28.9238
+    ],
+    "iconType": "dungeon",
+    "excerpt": "Altın Kapı ve Zindanlar",
+    "description": "İstanbul surlarının en muhkem kalesidir. Bir zamanlar Bizans imparatorlarının şehre girdiği 'Altın Kapı' buradadır. Sonraları nice devlet adamı burada hapsedilmiştir.",
+    "detail": "Evliya, buradaki hazine dairesinden ve zindanlardaki ejderha kuyularından bahseder. Kalenin burçlarında Osmanlı hazinesinin saklandığı dönemleri anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Yedikule_Fortress_Istanbul_2007_005.jpg/800px-Yedikule_Fortress_Istanbul_2007_005.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Çemberlitaş",
+    "type": "wonder",
+    "coords": [
+      41.0086,
+      28.9713
+    ],
+    "iconType": "column",
+    "excerpt": "Konstantin'in Sütunu",
+    "description": "Somaki mermerden yapılmış, parçalar dağılmasın diye demir çemberlerle sarılmış kadim bir sütundur. Tavukpazarı yakınındadır.",
+    "detail": "Evliya Çelebi, bu sütunun altında Hz. İsa'nın kadehinin ve nice kutsal emanetin gömülü olduğuna dair halk inançlarını aktarır. Leyleklerin bu sütuna konduğu görülmüştür.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Column_of_Constantine_2018.jpg/450px-Column_of_Constantine_2018.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Kapalıçarşı",
+    "type": "landmark",
+    "coords": [
+      41.0106,
+      28.968
+    ],
+    "iconType": "market",
+    "excerpt": "Muazzam Ticaret Merkezi",
+    "description": "Yedi iklimden gelen malların satıldığı, binbir çeşit esnafın bulunduğu, labirent gibi sokakları olan devasa bir çarşıdır.",
+    "detail": "Çelebi, çarşıdaki esnaf loncalarını, kuyumcuları ve çarşının güvenliğini sağlayan bekçileri anlatır. Burası İstanbul'un bereketinin toplandığı yerdir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grand_Bazaar_Istanbul.jpg/800px-Grand_Bazaar_Istanbul.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Bozdoğan Kemeri (Valens Kemeri)",
+    "type": "landmark",
+    "coords": [
+      41.0144,
+      28.9556
+    ],
+    "iconType": "bridge",
+    "excerpt": "Şehrin Su Yolu",
+    "description": "Devasa kemerleriyle şehre hayat veren suyu taşıyan, Romalılardan kalma muazzam bir yapıdır.",
+    "detail": "Evliya, kemerin altından geçen rüzgarın sertliğini ve yapının üzerindeki efsunlu işaretleri tasvir eder. Suyun Belgrad Ormanları'ndan nasıl getirildiğini hayretle anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Valens_Aqueduct_Istanbul_2007_002.jpg/800px-Valens_Aqueduct_Istanbul_2007_002.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rumeli Hisarı",
+    "type": "landmark",
+    "coords": [
+      41.0847,
+      29.051
+    ],
+    "iconType": "fortress",
+    "excerpt": "Boğazkesen Hisarı",
+    "description": "Fatih Sultan Mehmed Han'ın İstanbul'un fethi için rekor sürede inşa ettirdiği, Boğaz'ın akıntılı sularına hakim kaledir.",
+    "detail": "Hisarın planının 'Muhammed' isminin Arapça yazılışına benzediği söylenir. Karadeniz'den gelen gemilerin kontrol edildiği stratejik bir noktadır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rumelihisari_view.jpg/800px-Rumelihisari_view.jpg"
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Bozcaada",
+    "type": "nature",
+    "coords": [
+      39.8347344,
+      26.0701917
+    ],
+    "iconType": "nature",
+    "excerpt": "Ege'nin Şarap Adası",
+    "description": "Ege'nin incisi bu ada, şarabı ve bağlarıyla meşhurdur. Evliya Çelebi adayı 'Tenedos' adıyla anar ve kalesiyle limanını över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bozcaada%2C_%C3%87anakkale%2C_2019_14.jpg/800px-Bozcaada%2C_%C3%87anakkale%2C_2019_14.jpg"
+    ],
+    "detail": "Çelebi, adanın Rum halkını, balıkçılığını ve meyve bahçelerini uzun uzun tasvir eder. Kale içindeki cami ve hamamları sayar."
+  },
+  {
+    "id": 1014,
+    "title": "İstanköy Adası",
+    "type": "nature",
+    "coords": [
+      36.81528,
+      27.11028
+    ],
+    "iconType": "nature",
+    "excerpt": "Hipokrat'ın Vatanı",
+    "description": "Oniki Ada'nın en verimli adasıdır. Evliya, adanın portakal ve limon bahçelerini, bol suyunu ve güzel havasını metheder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Greece_kos_city.jpg/800px-Greece_kos_city.jpg"
+    ],
+    "detail": "Hipokrat'ın doğduğu bu ada, şifa bahçeleriyle ünlüdür. Çelebi, Osmanlı denizcilerinin uğrak yeri olan bu adanın kalesihi överek anlatır."
+  },
+  {
+    "id": 1015,
+    "title": "Sakız Adası",
+    "type": "nature",
+    "coords": [
+      38.4,
+      26.01667
+    ],
+    "iconType": "nature",
+    "excerpt": "Damla Damla Hazine",
+    "description": "Sakız ağacıyla dünyaca ünlü bu ada, Osmanlı hazinesine büyük gelir sağlardı. Evliya sakız toplamayı detaylıca anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ChiosPrefecture.jpg/800px-ChiosPrefecture.jpg"
+    ],
+    "detail": "Adanın 70'ten fazla köyü sakız üretir. Çelebi, sakızın nasıl toplandığını, işlendiğini ve İstanbul'a gönderildiğini yazar."
+  },
+  {
+    "id": 1016,
+    "title": "Arafat Dağı",
+    "type": "nature",
+    "coords": [
+      21.36667,
+      40.00278
+    ],
+    "iconType": "nature",
+    "excerpt": "Vakfe Dağı",
+    "description": "Hac farizasının en mühim vakfesi burada yapılır. Evliya, Arafat'ta milyonlarca hacının bir araya gelişini gözyaşlarıyla anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Arafat_panorama.jpg"
+    ],
+    "detail": "Çelebi, Arafat'ta geçirdiği günü hayatının en anlamlı anı olarak yazar. Güneş batarken yapılan duaların göklere yükselişini tasvir eder."
+  },
+  {
+    "id": 1017,
+    "title": "Cudi Dağı",
+    "type": "nature",
+    "coords": [
+      37.3775,
+      42.45444
+    ],
+    "iconType": "nature",
+    "excerpt": "Nuh'un Gemisi",
+    "description": "Nuh Aleyhisselam'ın gemisinin karaya oturduğu mukaddes dağdır. Evliya, dağın tepesindeki gemi kalıntılarını ziyaret ettiğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cudi-dagh-tr-1829.jpg/800px-Cudi-dagh-tr-1829.jpg"
+    ],
+    "detail": "Şırnak'tan görünen bu yüce dağ, nice velilerin makamlarıyla doludur. Çelebi, dağın eteklerindeki köyleri ve halkın misafirperverliğini över."
+  },
+  {
+    "id": 1018,
+    "title": "Demavend Dağı",
+    "type": "nature",
+    "coords": [
+      35.954365,
+      52.1103419
+    ],
+    "iconType": "nature",
+    "excerpt": "İran'ın Çatısı",
+    "description": "İran'ın çatısı ve Pers mitolojisinin kutsal dağıdır. Evliya, 5600 metrelik bu karlı zirveyi uzaktan seyrederek hayranlığını dile getirir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Damavand_in_winter.jpg"
+    ],
+    "detail": "Tahran'dan bile görünen bu volknaik dağ, Zerdüşt inancında önemli bir yere sahiptir. Çelebi, dağın eteklerindeki şifalı kaplıcaları anlatır."
+  },
+  {
+    "id": 1019,
+    "title": "Kürd Dağları",
+    "type": "nature",
+    "coords": [
+      33.66667,
+      47.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Göçerlerin Yurdu",
+    "description": "Zagros silsilesinin bir parçası olan bu dağlar, Kürt aşiretlerinin yurdudur. Evliya, dağlardaki konargöçer yaşamı tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Zagros_1992.jpg/800px-Zagros_1992.jpg"
+    ],
+    "detail": "Bu sarp dağlar, nice medeniyete beşiklik etmiştir. Çelebi, dağ halkının misafirperverliğini ve yoğurt-bal ikramlarını minnetle yazar."
+  },
+  {
+    "id": 1020,
+    "title": "Azak Denizi",
+    "type": "nature",
+    "coords": [
+      46.0,
+      37.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Donmuş Deniz",
+    "description": "Karadeniz'in kuzeydoğusundaki bu sığ deniz, Osmanlı-Rus mücadelesine sahne olmuştur. Evliya, kıyılarındaki kaleleri anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/800px-Europe_relief_laea_location_map.jpg"
+    ],
+    "detail": "Balık bakımından çok zengin olan bu deniz, kışın donar. Çelebi, donmuş deniz üzerinden at arabalarıyla geçildiğini yazar."
+  },
+  {
+    "id": 1021,
+    "title": "Akdeniz",
+    "type": "nature",
+    "coords": [
+      38.0,
+      17.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Kadim Deniz",
+    "description": "Üç kıtayı birbirine bağlayan bu bereket denizi, Osmanlı donanmasının avlama sahasıdır. Evliya, denizin her köşesini gezer.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/800px-Mediterranean_Sea_16.61811E_38.99124N.jpg"
+    ],
+    "detail": "Çelebi, Akdeniz'de çıkan fırtınayı, korsanlarla karşılaşmayı ve sahil şehirlerinin güzelliğini canlı bir şekilde tasvir eder."
+  },
+  {
+    "id": 1022,
+    "title": "Hazar Denizi",
+    "type": "nature",
+    "coords": [
+      42.0,
+      50.5
+    ],
+    "iconType": "nature",
+    "excerpt": "Kapalı Okyanus",
+    "description": "Dünyanın en büyük kapalı su kütlesi olan Hazar, havyarı ve petrolüyle ünlüdür. Evliya, kıyısındaki Bakü şehrini ziyaret eder.",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,3,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=Hazar_Denizi&revid=36455195&groups=_2eeb7aa201cc2025cf4dbe16a77677982c36ef57&parser=legacy"
+    ],
+    "detail": "Bu tuzlu göl, nice ülkenin sınırını belirler. Çelebi, Hazar balıkçılarının maharetini ve mercan avını anlatır."
+  },
+  {
+    "id": 1023,
+    "title": "Hindistan Denizi",
+    "type": "nature",
+    "coords": [
+      -20.0,
+      80.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Baharat Yolu",
+    "description": "Uzak diyarların kapısı olan bu okyanus, baharat ticaretinin kalbidir. Evliya, Hint denizcilerinin maharetini hayranlıkla anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Indianocean.PNG/800px-Indianocean.PNG"
+    ],
+    "detail": "Çelebi, bu denizi bizzat geçmese de Yemen ve Mısır denizcilerinden dinlediği hikayeleri aktarır."
+  },
+  {
+    "id": 1024,
+    "title": "Karadeniz",
+    "type": "nature",
+    "coords": [
+      43.4,
+      34.3
+    ],
+    "iconType": "nature",
+    "excerpt": "Osmanlı'nın İç Denizi",
+    "description": "Osmanlı'nın 'iç denizi' olan Karadeniz, başkent İstanbul'u besler. Evliya, kıyı boyunca nice liman ve kale ziyaret eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Black_Sea_map-tr.png/800px-Black_Sea_map-tr.png"
+    ],
+    "detail": "Balık bereketinin doruğa çıktığı bu deniz, fırtınalarıyla da meşhurdur. Çelebi, Trabzon'dan Kırım'a uzanan seferlerini anlatır."
+  },
+  {
+    "id": 1025,
+    "title": "Karanlık Denizi",
+    "type": "nature",
+    "coords": [
+      90.0,
+      0.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Denizler",
+    "description": "Kuzey Buz Denizi ya da Arktik Okyanusu,As ya,Avrupa ve Kuzey Amerika'nın kuzeylerin de yer alan,Kuzey Kut bu'nu kapsayan, buzlarla kaplı bir okyanustur.Uluslararası Hidrografi Örgütü(IHO)tarafından okyanus o...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Arktik_T%C3%BCrk%C3%A7e_haritas%C4%B1.svg/800px-Arktik_T%C3%BCrk%C3%A7e_haritas%C4%B1.svg.png"
+    ]
+  },
+  {
+    "id": 1026,
+    "title": "Rum Denizi",
+    "type": "nature",
+    "coords": [
+      40.75,
+      28.0
+    ],
+    "iconType": "nature",
+    "excerpt": "Denizler",
+    "description": "Marmara Denizi ya da Klasik Antik Çağ'ın da Propontis,Karadeniz'i,Ege Denizi ve Akdeniz'e bağlayan biriç denizdir. Karadeniz'e İstanbul Boğazı,Ege Denizi'ne Çanakkale Boğazı ile bağlanır.Türkiye'nin As ya ve Avrup...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/800px-Turkey_relief_location_map.jpg"
+    ]
+  },
+  {
+    "id": 1027,
+    "title": "Umman Denizi",
+    "type": "nature",
+    "coords": [
+      16.0,
+      64.0
+    ],
+    "iconType": "nature",
+    "excerpt": "İnci Denizi",
+    "description": "Arap Yarımadası'nı Hindistan'a bağlayan bu deniz, inci avcılığıyla ünlüdür. Evliya, Basra'da dinlediği deniz hikayelerini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Umman_Denizi.png/800px-Umman_Denizi.png"
+    ],
+    "detail": "Kadim ticaret yollarının kavşağı olan Umman, Osmanlı ve Portekiz mücadelesine sahne olmuştur."
+  },
+  {
+    "id": 1028,
+    "title": "Balatin Gölü",
+    "type": "nature",
+    "coords": [
+      46.85,
+      17.72
+    ],
+    "iconType": "nature",
+    "excerpt": "Macar Denizi",
+    "description": "Macaristan'ın gururu Balaton, Orta Avrupa'nın en büyük gölüdür. Evliya, seferler sırasında kıyılarından geçmiştir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Balaton_Hungary_Landscape.jpg/800px-Balaton_Hungary_Landscape.jpg"
+    ],
+    "detail": "Tatlı sulu bu göl, şarap bağlarıyla çevrilidir. Çelebi, Macar köylerindeki misafirperverliği anlatır."
+  },
+  {
+    "id": 1029,
+    "title": "Büyükçekmece Gölü",
+    "type": "nature",
+    "coords": [
+      41.06667,
+      28.55306
+    ],
+    "iconType": "nature",
+    "excerpt": "Rumeli Kapısı",
+    "description": "İstanbul'un batı kapısındaki bu lagün, kuş cennetidir. Evliya, gölün üzerindeki tarihi köprüyü detaylıca anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/G%C3%BCrp%C4%B1nar%27dan_B%C3%BCy%C3%BCk%C3%A7ekmece_G%C3%B6l%C3%BC.JPG/800px-G%C3%BCrp%C4%B1nar%27dan_B%C3%BCy%C3%BCk%C3%A7ekmece_G%C3%B6l%C3%BC.JPG"
+    ],
+    "detail": "Kanuni Sultan Süleyman'ın yaptırdığı köprü, Rumeli'ye açılan kapıdır. Çelebi, köprüden geçen kervanları tasvir eder."
+  },
+  {
+    "id": 1030,
+    "title": "Hazar Gölü",
+    "type": "nature",
+    "coords": [
+      38.48444,
+      39.40472
+    ],
+    "iconType": "nature",
+    "excerpt": "Elazığ'ın İncisi",
+    "description": "Elazığ'daki bu tektonik göl, soğuk ve berrak sularıyla ünlüdür. Evliya, kıyısındaki köylerin balıkçılığını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hazar_G%C3%B6l%C3%BC_ve_manzara.jpg/800px-Hazar_G%C3%B6l%C3%BC_ve_manzara.jpg"
+    ],
+    "detail": "Yaz aylarında serinlemek için ideal olan bu göl, kış aylarında kısmen donar."
+  },
+  {
+    "id": 1031,
+    "title": "İznik Gölü",
+    "type": "nature",
+    "coords": [
+      40.44361,
+      29.50833
+    ],
+    "iconType": "nature",
+    "excerpt": "Konsil Gölü",
+    "description": "Roma döneminden beri önemli olan bu göl, verimli ovalarla çevrilidir. Evliya, gölün zeytin ve üzüm bağlarını över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lake_Iznik_NASA.jpg/800px-Lake_Iznik_NASA.jpg"
+    ],
+    "detail": "Tarihi İznik şehrinin yanı başındaki bu göl, tatlı suludur ve bol balık yetiştirir. Çelebi, göl kenarında konakladığını yazar."
+  },
+  {
+    "id": 1032,
+    "title": "Lut Gölü",
+    "type": "nature",
+    "coords": [
+      31.52056,
+      35.48444
+    ],
+    "iconType": "nature",
+    "excerpt": "Ölü Deniz",
+    "description": "Dünyanın en alçak noktasındaki bu ölü deniz, tuz yoğunluğu sebebiyle hiçbir canlıya ev sahipliği yapmaz.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Israel_relief_location_map.jpg/800px-Israel_relief_location_map.jpg"
+    ],
+    "detail": "Evliya, burayı 'Lut Kavmi'nin helak olduğu yer' olarak anar ve sularının insanı batırmadığını hayretle yazar."
+  },
+  {
+    "id": 1033,
+    "title": "Seyhan Nehri",
+    "type": "nature",
+    "coords": [
+      37.60614,
+      35.58502
+    ],
+    "iconType": "nature",
+    "excerpt": "Adana",
+    "description": "Seyhan Nehri,Türkiye'nin Akdeniz'edökülen ırmaklarından birisidir. Uzunluğu 560 km'dir.Havzaalanı ise 20.600 km²dir. İki önemli kolu vardır: uzun olanı,Kayseri-Pınarbaşı ilçesinden, 1500 metre yüksekli...",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Seyhan_nehri.png/800px-Seyhan_nehri.png"
+    ]
+  },
+  {
+    "id": 1034,
+    "title": "Keşiş Dağı",
+    "type": "nature",
+    "coords": [
+      40.07056,
+      29.22194
+    ],
+    "iconType": "nature",
+    "excerpt": "Bursa'nın Tacı",
+    "description": "Bursa'nın üzerinde yükselen Uludağ, kış kış karlıdır. Evliya, dağın zirvesindeki manastır kalıntılarını ve bol suyunu anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Uludag.JPG/800px-Uludag.JPG"
+    ],
+    "detail": "Osmanlı padişahlarının av sahası olan bu dağ, yaz aylarında serin yayla havasıyla meşhurdur. Çelebi, Bursa'dan görünen manzarasını över."
+  },
+  {
+    "id": 1035,
+    "title": "İnegöl Ovası",
+    "type": "nature",
+    "coords": [
+      40.067,
+      29.517
+    ],
+    "iconType": "nature",
+    "excerpt": "Bursa",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bursa_views_2019.jpg/1280px-Bursa_views_2019.jpg"
+    ]
+  },
+  {
+    "id": 1036,
+    "title": "İznik Kalesi",
+    "type": "fortress",
+    "coords": [
+      40.42278,
+      29.71806
+    ],
+    "iconType": "fortress",
+    "excerpt": "İlk Başkent",
+    "description": "Roma surlarıyla çevrili bu kadim kale, Osmanlı'ya başkentlik yapmıştır. Evliya, kalenin dört kapısını tek tek anlatır.",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=%C4%B0znik_Kalesi&revid=33392344&groups=_bd76dbf5c013d00e7fd04c613009fbc0a57b44cc&parser=legacy"
+    ],
+    "detail": "Çelebi, İznik Kalesi'ndeki camileri, hamamları ve çini atölyelerini uzun uzun tasvir eder. Şehrin bereketinden övgüyle söz eder."
+  },
+  {
+    "id": 1037,
+    "title": "Bozcaada Kalesi",
+    "type": "fortress",
+    "coords": [
+      39.83333,
+      26.06667
+    ],
+    "iconType": "fortress",
+    "excerpt": "Boğaz Bekçisi",
+    "description": "Çanakkale Boğazı'nı koruyan bu deniz kalesi, Cenevizlilerden Osmanlı'ya geçmiştir. Evliya, kaleyi detaylıca çizer.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bozcaada.jpg/800px-Bozcaada.jpg"
+    ],
+    "detail": "Denize hakim burçlarıyla ünlü bu kale, nice kuşatma görmüştür. Çelebi, kaledeki topları ve mühimmat depolarını sayar."
+  },
+  {
+    "id": 1038,
+    "title": "Burceyn Kalesi",
+    "type": "fortress",
+    "coords": [
+      40.14778,
+      26.37944
+    ],
+    "iconType": "fortress",
+    "excerpt": "Çanakkale",
+    "description": "",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eceabat_Kilitbahir_Fortress.JPG/800px-Eceabat_Kilitbahir_Fortress.JPG"
+    ]
+  },
+  {
+    "id": 1039,
+    "title": "Süleyman Paşa Türbesi",
+    "type": "landmark",
+    "coords": [
+      37.915386,
+      40.2406852
+    ],
+    "iconType": "landmark",
+    "excerpt": "Rumeli Fatihi",
+    "description": "Rumeli'nin ilk fatihi Süleyman Paşa'nın türbesi Gelibolu'dadır. Evliya, paşanın kahramanlıklarını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gelibolu_-_panoramio.jpg/1280px-Gelibolu_-_panoramio.jpg"
+    ],
+    "detail": "Osmanlı'nın Avrupa'ya ilk adımını atan şehzade burada yatmaktadır. Çelebi, türbenin kutsiyetinden bahseder."
+  },
+  {
+    "id": 1040,
+    "title": "Harput Kalesi",
+    "type": "fortress",
+    "coords": [
+      38.70333,
+      39.2575
+    ],
+    "iconType": "fortress",
+    "excerpt": "Kartal Yuvası",
+    "description": "Elazığ'ın üzerinde yükselen bu antik kale, stratejik konumuyla ünlüdür. Evliya, kaleyi 'kartal yuvası' diye tasvir eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Harput_kalesi-Harput-Elaz%C4%B1%C4%9F_-_panoramio.jpg/800px-Harput_kalesi-Harput-Elaz%C4%B1%C4%9F_-_panoramio.jpg"
+    ],
+    "detail": "Roma, Bizans ve Türk hakimiyetine tanıklık eden bu kale, şehre hakim tepede kurulmuştur. Çelebi, manzarasını uzun uzun anlatır."
+  },
+  {
+    "id": 1041,
+    "title": "Palu Kalesi",
+    "type": "fortress",
+    "coords": [
+      38.7025,
+      39.95444
+    ],
+    "iconType": "fortress",
+    "excerpt": "Murat'ın Bekçisi",
+    "description": "Murat Nehri kıyısındaki bu kale, Fırat'ın kollarını kontrol ederdi. Evliya, kalenin sarp kayalıklarını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Palu_Kalesi.jpg/800px-Palu_Kalesi.jpg"
+    ],
+    "detail": "Çelebi, Palu halkının misafirperverliğini ve yerel bal üretimini överek yazar."
+  },
+  {
+    "id": 1042,
+    "title": "Bakras Kalesi",
+    "type": "fortress",
+    "coords": [
+      36.42694,
+      36.225
+    ],
+    "iconType": "fortress",
+    "excerpt": "Haçlı Kalıntısı",
+    "description": "Amik Ovası'na hakim bu Haçlı kalesi, stratejik öneme sahiptir. Evliya, kaleyi Türkmanlarla birlikte ziyaret eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Crusader_castle_Qalaat_Marqab.jpg/1280px-Crusader_castle_Qalaat_Marqab.jpg"
+    ],
+    "detail": "Temürcü Türkmanlarının elinde olan bu kale, ipek yolu güzergahını korurdu."
+  },
+  {
+    "id": 1043,
+    "title": "Arap Camii",
+    "type": "landmark",
+    "coords": [
+      41.02444,
+      28.97083
+    ],
+    "iconType": "landmark",
+    "excerpt": "Galata'nın Camii",
+    "description": "Galata'daki bu kadim yapı, eskiden kiliseyken camiye çevrilmiştir. Evliya, dikdörtgen planını ve gotik kemerlerini anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Istanbul_asv2021-10_img01_Arap_Mosque.jpg/800px-Istanbul_asv2021-10_img01_Arap_Mosque.jpg"
+    ],
+    "detail": "Çelebi, cami avlusundaki incir ağacını ve cemaat arasındaki Arap tüccarları tasvir eder."
+  },
+  {
+    "id": 1044,
+    "title": "Karaköy Camii",
+    "type": "landmark",
+    "coords": [
+      41.02194,
+      28.97528
+    ],
+    "iconType": "landmark",
+    "excerpt": "Tüccar Camii",
+    "description": "Galata'nın ticaret merkezindeki bu cami, tüccarların uğrak yeridir. Evliya, cemaatin kozmopolit yapısını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merzifonlu_Kara_Mustafa_Pasha_Mosque%2C_Karak%C3%B6y%2C_%C4%B0stanbul_%2812984872695%29.jpg/800px-Merzifonlu_Kara_Mustafa_Pasha_Mosque%2C_Karak%C3%B6y%2C_%C4%B0stanbul_%2812984872695%29.jpg"
+    ],
+    "detail": "Çelebi, caminin çevresindeki han ve kervansarayları, Ceneviz mimarisini detaylıca tasvir eder."
+  },
+  {
+    "id": 1045,
+    "title": "Cihangir Camii",
+    "type": "landmark",
+    "coords": [
+      41.03028,
+      28.98722
+    ],
+    "iconType": "landmark",
+    "excerpt": "Boğaz Manzarası",
+    "description": "Kanuni'nin genç yaşta ölen şehzadesi için yaptırılan bu cami, Boğaz manzarasına hakimdir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mosqu%C3%A9e_de_Dolmabah%C3%A7e.jpg/800px-Mosqu%C3%A9e_de_Dolmabah%C3%A7e.jpg"
+    ],
+    "detail": "Evliya, caminin terasından İstanbul Boğazı'nın görünüşünü 'dünyada eşi yok' diye tasvir eder."
+  },
+  {
+    "id": 1046,
+    "title": "Kılıç Ali Paşa Camii",
+    "type": "landmark",
+    "coords": [
+      41.02639,
+      28.98083
+    ],
+    "iconType": "landmark",
+    "excerpt": "Denizci Paşanın Camii",
+    "description": "Mimar Sinan'ın son büyük eseri, denizci Kılıç Ali Paşa için yapılmıştır. Evliya, kubbesinin Ayasofya'ya benzerliğini yazar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Complex.jpg/800px-K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Complex.jpg"
+    ],
+    "detail": "Tophane'de deniz kenarındaki bu külliye, hamam ve medresesiyle tam bir sosyal komplekstir. Çelebi, kaptan paşaların burada namaz kıldığını anlatır."
+  },
+  {
+    "id": 1047,
+    "title": "Mehmed Ağa Camii",
+    "type": "landmark",
+    "coords": [
+      41.02694,
+      28.94528
+    ],
+    "iconType": "landmark",
+    "excerpt": "Mimar Camii",
+    "description": "Saray mimarlarından birinin eseri olan bu küçük cami, ince işçiliğiyle dikkat çeker.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mehmed_A%C4%9Fa_Cami.jpg/800px-Mehmed_A%C4%9Fa_Cami.jpg"
+    ],
+    "detail": "Evliya, caminin çinilerini ve mihrabını överek anlatır."
+  },
+  {
+    "id": 1048,
+    "title": "Molla Çelebi Camii",
+    "type": "landmark",
+    "coords": [
+      41.03222,
+      28.99056
+    ],
+    "iconType": "landmark",
+    "excerpt": "Deniz Kenarı",
+    "description": "Fındıklı'daki bu zarif cami, deniz kenarında konumlanmıştır. Evliya, manzarasını sever.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%C4%B0stanbul_5430.jpg/800px-%C4%B0stanbul_5430.jpg"
+    ],
+    "detail": "Çelebi, cuma namazlarında buraya geldiğini ve müezzinin güzel sesini dinlediğini yazar."
+  },
+  {
+    "id": 1049,
+    "title": "Melemen Güzelhisarı",
+    "type": "fortress",
+    "coords": [
+      38.774,
+      27.018
+    ],
+    "iconType": "fortress",
+    "excerpt": "İzmir",
+    "description": "Güzelhisar,İzmirilinin Aliağailçesine bağlı bir kırsalmahalledir....",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=G%C3%BCzelhisar%2C_Alia%C4%9Fa&revid=36543061&groups=_fef83622662905bb2a7249cd170028be324ee013&parser=legacy"
+    ]
+  },
+  {
+    "id": 1050,
+    "title": "Kara Foça Kalesi",
+    "type": "fortress",
+    "coords": [
+      38.66917,
+      26.75083
+    ],
+    "iconType": "fortress",
+    "excerpt": "Ege Muhafızı",
+    "description": "Ege kıyısındaki bu Ceneviz kalesi, deniz ticaretini kontrol ederdi. Evliya, yıkık surları ve limanı anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fo%C3%A7a_Castle_6505.jpg/800px-Fo%C3%A7a_Castle_6505.jpg"
+    ],
+    "detail": "Çelebi, Foça'nın eski görkeminden ve şimdiki harap halinden hüzünle bahseder."
+  },
+  {
+    "id": 1051,
+    "title": "Mevlana Türbesi",
+    "type": "landmark",
+    "coords": [
+      37.87056,
+      32.50472
+    ],
+    "iconType": "landmark",
+    "excerpt": "Aşk Makamı",
+    "description": "Mevlana Celaleddin Rumi'nin ebedi istirahatgahı, yeşil kubbesiyle Konya'nın simgesidir. Evliya, burayı 'aşk makamı' diye anar.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MevlanaMuseum.jpg/800px-MevlanaMuseum.jpg"
+    ],
+    "detail": "Çelebi, türbeyi ziyaret ederken gözyaşlarına boğulduğunu itiraf eder. Sema ayinini ve dervişlerin ihlaslı ibadetini anlatır."
+  },
+  {
+    "id": 1052,
+    "title": "Sultan I. Alaeddin Camii",
+    "type": "landmark",
+    "coords": [
+      37.87333,
+      32.49278
+    ],
+    "iconType": "landmark",
+    "excerpt": "Selçuklu Mirası",
+    "description": "Selçuklu başkentinin en büyük camisi, Alaeddin Tepesi üzerindedir. Evliya, 8 sultan türbesini tek tek ziyaret eder.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alaedin_Camii.JPG/800px-Alaedin_Camii.JPG"
+    ],
+    "detail": "Çelebi, caminin ahşap minberini ve tavanını Selçuklu sanatının zirvesi olarak över."
+  },
+  {
+    "id": 1053,
+    "title": "Karaman Eyaleti",
+    "type": "region",
+    "coords": [
+      43.8998324,
+      51.8727165
+    ],
+    "iconType": "region",
+    "excerpt": "Anadolu'nun Kalbi",
+    "description": "Konya merkezli bu eyalet, Karamanoğulları döneminden beri önemlidir. Evliya, eyaletin bereketli ovalarını anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Karamanid_Dynasty_flag.svg/800px-Karamanid_Dynasty_flag.svg.png"
+    ],
+    "detail": "Buğday ambarı olan bu eyalet, Osmanlı'ya büyük vergi geliri sağlardı. Çelebi, köy köy gezerek halkı tanır."
+  },
+  {
+    "id": 1054,
+    "title": "Ilgın Gölü",
+    "type": "nature",
+    "coords": [
+      38.34583,
+      31.87667
+    ],
+    "iconType": "nature",
+    "excerpt": "Flamingo Cenneti",
+    "description": "Konya'daki bu sığ göl, flamingolarıyla ünlüdür. Evliya, Konya ovasını geçerken gölü uzaktan seyreder.",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,9,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=%C3%87avu%C5%9F%C3%A7u_G%C3%B6l%C3%BC&revid=35629593&groups=_fdbc4c7d239fd6eba13f5eb9556852b846637939&parser=legacy"
+    ],
+    "detail": "Tuzlu suları şifa verici kabul edilen bu göl, kış aylarında kısmen donar."
+  },
+  {
+    "id": 1055,
+    "title": "Takkeciler Camii",
+    "type": "landmark",
+    "coords": [
+      39.41972,
+      29.97611
+    ],
+    "iconType": "landmark",
+    "excerpt": "Çiniciler Yurdu",
+    "description": "Kütahya'daki bu cami, takke esnafı tarafından yaptırılmıştır. Evliya, şehrin çini sanatını överek anlatır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Takvac%C4%B1lar_d%C4%B1%C5%9F.JPG/800px-Takvac%C4%B1lar_d%C4%B1%C5%9F.JPG"
+    ],
+    "detail": "Çelebi, Kütahya çinilerinin İznik'e rakip olduğunu, caminin iç mekanının çinilerle bezeli olduğunu yazar."
+  },
+  {
+    "id": 1056,
+    "title": "Bozdağ",
+    "type": "nature",
+    "coords": [
+      38.339,
+      28.076
+    ],
+    "iconType": "nature",
+    "excerpt": "Yörük Yaylası",
+    "description": "Batı Anadolu'nun önemli dağlarından biri olan Bozdağ, ormanlık yamaçlarıyla ünlüdür. Evliya, dağın çevresindeki koyun sürülerini anlatır.",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=Bozda%C4%9F%2C_%C3%96demi%C5%9F&revid=32738800&groups=_9be0213fa22e4067122c9a12202d9e98c0f7f21d&parser=legacy"
+    ],
+    "detail": "İzmir-Manisa arasındaki bu dağ silsilesi, yazın serin, kışın karlıdır. Çelebi, burada Yörük çadırlarında konakladığını yazar."
+  },
+  {
+    "id": 1057,
+    "title": "Eski Camii",
+    "type": "landmark",
+    "coords": [
+      37.21917,
+      28.36528
+    ],
+    "iconType": "landmark",
+    "excerpt": "İlk Fetheden",
+    "description": "Muğla'nın ilk Osmanlı camisi, sade mimarisiyle dikkat çeker.",
+    "images": [
+      "https://maps.wikimedia.org/img/osm-intl,12,a,a,270x200.png?lang=tr&domain=tr.wikipedia.org&title=Mu%C4%9Fla_Ulu_Camii&revid=36517787&groups=_dcb65953a9968375b810585b83bf4669300e7c26&parser=legacy"
+    ],
+    "detail": "Evliya, caminin ahşap minberini ve eski yazılarını inceler."
+  },
+  {
+    "id": 1058,
+    "title": "Kurşunlu Cami",
+    "type": "landmark",
+    "coords": [
+      37.21667,
+      28.36472
+    ],
+    "iconType": "landmark",
+    "excerpt": "Kurşun Kubbe",
+    "description": "Muğla'nın en büyük tarihi camisi, kurşun kaplı kubbesiyle adını almıştır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mu%C4%9Fla_30.JPG/800px-Mu%C4%9Fla_30.JPG"
+    ],
+    "detail": "Evliya, caminin avlusundaki çınarı ve şadırvanını anlatır."
+  },
+  {
+    "id": 1059,
+    "title": "Şeyh Camii",
+    "type": "landmark",
+    "coords": [
+      37.21806,
+      28.36583
+    ],
+    "iconType": "landmark",
+    "excerpt": "Tekke Camii",
+    "description": "Muğla'daki bir tekke camisi, sufiyane ortamıyla bilinir.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mu%C4%9Fla_%C5%9Eeyh_Camii.jpg/800px-Mu%C4%9Fla_%C5%9Eeyh_Camii.jpg"
+    ],
+    "detail": "Çelebi, burada yapılan zikir halkalarından ve dervişlerin ihlasından izlenimleriini aktarır."
+  },
+  {
+    "id": 1060,
+    "title": "Sehend Dağı",
+    "type": "nature",
+    "coords": [
+      37.733,
+      46.5
+    ],
+    "iconType": "nature",
+    "excerpt": "Tebriz'in Bekçisi",
+    "description": "Tebriz yakınlarındaki bu volkanik dağ, yılın çoğunu karla kaplı geçirir. Evliya, dağın eteklerindeki bağları ve meyve bahçelerini över.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/SahandNASA.jpg/800px-SahandNASA.jpg"
+    ],
+    "detail": "Azerbaycan'ın en yüksek dağlarından biri olan Sehend, nice şaire ilham kaynağı olmuştur. Çelebi, burada içtiği soğuk suyu metheder."
+  },
+  {
+    "id": 1061,
+    "title": "Yanıkkale",
+    "type": "fortress",
+    "coords": [
+      47.6835029,
+      17.6342832
+    ],
+    "iconType": "fortress",
+    "excerpt": "Macar Cephesi",
+    "description": "Macaristan'daki Györ şehrinin kalesidir. Osmanlı-Habsburg savaşlarında önemli rol oynamıştır.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gy%C5%91r_-_castle.jpg/1280px-Gy%C5%91r_-_castle.jpg"
+    ],
+    "detail": "Evliya, kalenin Osmanlı tarafından fetih ve sonra kaybedilişini anlatır. Savunma savaşlarını detaylıca tasvir eder."
+  },
+  {
+    "id": 1062,
+    "title": "Tımışvar Eyaleti",
+    "type": "region",
+    "coords": [
+      45.75,
+      21.217
+    ],
+    "iconType": "region",
+    "excerpt": "Batı Ucu",
+    "description": "Osmanlı'nın Batı sınırındaki bu eyalet, şimdiki Romanya topraklarındadır. Evliya, seferlerde buradan geçer.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Coa_Hungary_Country_History_John_I_of_Hungary_%28Szapolyai%29_%281526-1540%29.svg/800px-Coa_Hungary_Country_History_John_I_of_Hungary_%28Szapolyai%29_%281526-1540%29.svg.png"
+    ],
+    "detail": "Macar ve Erdel sınırındaki bu eyalet, Habsburg savaşlarının merkezi olmuştur."
+  }
+]
